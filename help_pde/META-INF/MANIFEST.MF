@@ -1,0 +1,2699 @@
+Manifest-Version: 1.0
+Bundle-Vendor: %providerName
+Bundle-Localization: plugin
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.eclipse.pde.doc.user; singleton:=true
+Eclipse-SourceReferences: scm:git:git://git.eclipse.org/gitroot/platfo
+ rm/eclipse.platform.common.git;path="bundles/org.eclipse.pde.doc.user
+ ";tag=v20120120-1417
+Bundle-Version: 3.7.2.v20120120-1417
+Bundle-ManifestVersion: 2
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IPluginFieldData.html
+SHA1-Digest: jCkfWod8Pp4nsOTmsYOYXwmMvuU=
+
+Name: reference/api/org/eclipse/pde/ui/package-frame.html
+SHA1-Digest: 4S4NqReg9hk77jK+dfAzxLvweYM=
+
+Name: guide/tools/launchers/arguments.htm
+SHA1-Digest: AMgX9Oik+fQN7Jxo5lIWN0JqK+w=
+
+Name: guide/images/export_wizards/jar_signing.png
+SHA1-Digest: ArCXUA9JdFQNT1MJb0Z9XyBjHQI=
+
+Name: guide/images/simple_cs_editor/section_introduction_details.png
+SHA1-Digest: VxXMjNZhG31Qh5wy86v5M//nYbs=
+
+Name: guide/images/feature_editor/information_description.png
+SHA1-Digest: M5KVbqnaKukQcyO2mtNhy04cnI8=
+
+Name: reference/api-tooling/images/usescans-pref-page.png
+SHA1-Digest: KeaS5E5dXPj1iL8YX1oY0KM1JCU=
+
+Name: reference/api-tooling/wizards/ref-api-use-dialog.htm
+SHA1-Digest: oihWftDrvq/ZbaREJ4TVjpEu/HY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseLaunc
+ hShortcut.html
+SHA1-Digest: 5oWF80c/8UixSUtH/JCQ7pejIbk=
+
+Name: guide/tools/preference_pages/plugin_compiler.htm
+SHA1-Digest: 0/nle3OgDTLdeQpE4dArPq148Cc=
+
+Name: guide/images/plugin_editor/xfriend.png
+SHA1-Digest: 9DH+ZvLh0OnyAb5YNoFuKCk6RfY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginRefer
+ ence.html
+SHA1-Digest: JRVTJBbBjZq51SHcfn1+SAtouVc=
+
+Name: guide/tools/editors/manifest_editor/extension_points.htm
+SHA1-Digest: rg6VJRqjwaqs/GvHnLByyin4Nqk=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensionsM
+ odel.html
+SHA1-Digest: 1Kn38p2LUneXUrKEb9mg5on/mnQ=
+
+Name: guide/tools/launchers/equinox_args.htm
+SHA1-Digest: MumJiaAyBepzFRdM6o8fgzc49Tg=
+
+Name: reference/api-tooling/propertypages/ref-filters-prop.htm
+SHA1-Digest: lzUdMjCSIwkBAfDBRY1NwvSGyxc=
+
+Name: guide/images/feature_editor/information_sites.png
+SHA1-Digest: ittAi5NExaar80ML+kSrxUJL9gg=
+
+Name: reference/api-tooling/quickfixes/ref-api-missing-baseline-qf.htm
+SHA1-Digest: RcemKPtIXcEUSNo69GrmbhBqUys=
+
+Name: guide/images/preferences/target_preferences.png
+SHA1-Digest: dwdp3PNx7IT48Il2cxXk43A5V7E=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IPackageExp
+ ortDescription.html
+SHA1-Digest: KB7eIOuAlj4yH6QFsb0YDK53YHM=
+
+Name: reference/api/org/eclipse/pde/build/class-use/IAntScript.html
+SHA1-Digest: JMx5lkG9/91WVIa52xwubkSKFe4=
+
+Name: tasks/api_tooling_remove_filters.htm
+SHA1-Digest: uPH242H7b73HyB24WMJaFJy54qc=
+
+Name: reference/api-tooling/ant-tasks/apiconsumeruse-reportconversion-
+ ant-task.htm
+SHA1-Digest: U3/OM0WHfg81/oO/8rnL4296lK0=
+
+Name: guide/tools/target_shared/location_edit_feature_wizard.htm
+SHA1-Digest: w0A00ISc05gPjZPpUXXFYteVI1U=
+
+Name: schema.css
+SHA1-Digest: Pluj7ZmJTbC+F7kra/pDY2hbK8M=
+
+Name: guide/tools/launchers/eclipse_application_launcher.htm
+SHA1-Digest: nw9mVKMzFaEZZ/VQHm02QIIR1QI=
+
+Name: reference/api/org/eclipse/pde/launching/package-frame.html
+SHA1-Digest: SQPSt5wv5v55oBaGBn12ucKdhgY=
+
+Name: guide/tools/editors/product_editor/dependencies.htm
+SHA1-Digest: MBU3Hbnz6q9vNy6hNQGxvILP+C8=
+
+Name: guide/images/product_editor/branding_window.png
+SHA1-Digest: Fd7+iHXGi+7p2+Rnl6A9+mFE4HI=
+
+Name: guide/images/views/error_log.png
+SHA1-Digest: 49ZKulFCQPV/N2jJVvB3emgbUv0=
+
+Name: reference/api/org/eclipse/pde/ui/IExtensionWizard.html
+SHA1-Digest: XEubI++fEcm2VI6Yxf8Dw0vzAO8=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IProvisionerWizard.ht
+ ml
+SHA1-Digest: oCDk4LTcGCOSwUJw7yq4qz0vdU8=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/IVariablePr
+ ovider.html
+SHA1-Digest: uuRfR8bUkX91VBAi+QUtbKoCoGs=
+
+Name: reference/api-tooling/quickfixes/ref-api-remove-api-filter-qf.ht
+ m
+SHA1-Digest: aCIwvNNWycgmCZ0WG5GFSWUnlM0=
+
+Name: reference/api-tooling/quickfixes/ref-api-sincetag-qf.htm
+SHA1-Digest: yzOxvlb6JxsjbcGRs6mXNI1qF7M=
+
+Name: guide/tools/preference_pages/target_platform.htm
+SHA1-Digest: 6TcpbTdjN9CmxsH9rll4qNUZ14s=
+
+Name: guide/tools/editors/schema_editor/page_schema_overview.htm
+SHA1-Digest: EEUGb8UZ1NgL+wHvXXHFwYMKB3Y=
+
+Name: reference/api/org/eclipse/pde/core/IModelProviderListener.html
+SHA1-Digest: 4lSwZT0i/EK5MGJeeweTgKChGGs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-use.html
+SHA1-Digest: zCswOH/Ga2uPEYqpXe7CuLxsDEw=
+
+Name: reference/api/org/eclipse/pde/core/project/package-frame.html
+SHA1-Digest: ceuNo9bT3s5SeQUinIx6pUBoEm4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BlankField.
+ html
+SHA1-Digest: /on/bEJHH/7sWcde+PlsZZg06sg=
+
+Name: guide/images/target_shared/edit_target_content_tab.png
+SHA1-Digest: nAZyWBos/b1VE7iIfVLdzKErFBU=
+
+Name: guide/images/schema_editor/section_extension-point-elements_1.pn
+ g
+SHA1-Digest: xWcrFsZen0hnc7VQSeQX+kuFFDs=
+
+Name: guide/tools/target_shared/location_preview.htm
+SHA1-Digest: 8QrYgkLZY+3hQVpfT0QxuWEdd0E=
+
+Name: guide/images/import_wizards/import_categories.png
+SHA1-Digest: 7v+fqDeccLZIFy+Hac3zEGQ6qek=
+
+Name: guide/images/target_shared/new_target_wizard.png
+SHA1-Digest: sS0Z/zgEtaB1m8rJXXxRBcsWuYM=
+
+Name: guide/tools/file_wizards/new_toc.htm
+SHA1-Digest: yfqT7cGcGKYsQZpsUM6ntiTeRQI=
+
+Name: guide/images/feature_editor/information_copyright.png
+SHA1-Digest: lHRX9bATWO50m5mtb2GNf+5EZDM=
+
+Name: guide/images/access_restrictions/content_assist.png
+SHA1-Digest: 9oP0OgY7jfpyH8/4jSbRwQ18o7U=
+
+Name: reference/api/org/eclipse/pde/ui/IPluginContentWizard.html
+SHA1-Digest: PKcCVWqmjgfKBEJY+eS96YBzypw=
+
+Name: reference/api/org/eclipse/pde/build/package-use.html
+SHA1-Digest: bATPbhVKnb/EDGdwVyLLrDLSHxE=
+
+Name: reference/extension-points/org_eclipse_pde_core_javadoc.html
+SHA1-Digest: E0wR1Sr5E50cMYXZ4i9xvTIz8AE=
+
+Name: guide/images/target_shared/edit_target_environment_tab.png
+SHA1-Digest: X4Zv/YQOQBE+14S4xkw+7oDQBFk=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-tree.html
+SHA1-Digest: 82KJnHgB33M6YXla8USqc7PjjQU=
+
+Name: guide/images/plugin_editor/extensions_body.png
+SHA1-Digest: JM1RnPbWNeaa/fX0dXCTb07ewVE=
+
+Name: whatsNew/pde_whatsnew.htm
+SHA1-Digest: FXLKIYHBobsX8aTJ5nU6cV2Izs4=
+
+Name: guide/images/target_shared/edit_target_locations_tab.png
+SHA1-Digest: N5XEBO9a7i2xyaCYKsnGKR/9yeE=
+
+Name: guide/tools/target_shared/edit_target_environment_tab.htm
+SHA1-Digest: tang97uTUohyjh08wnpIYsu/bP0=
+
+Name: guide/tools/export_wizards/export_product.htm
+SHA1-Digest: nwYjHhspgi1ndNBUHo/qbqkBlqw=
+
+Name: guide/images/access_restrictions/discouraged.png
+SHA1-Digest: Kf0cMzvx7deskINNKMfUPTEu45E=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-archive-page
+ .png
+SHA1-Digest: cSIqqHlAoJ0xg1WKM6Ay3jAS6fs=
+
+Name: concepts/target.htm
+SHA1-Digest: 2r8WdBJannc0AKt0mbbL9TgAHmI=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/TracingTab.html
+SHA1-Digest: sgkVpx/U7cXXlpGz6R4FcY3ybN8=
+
+Name: guide/tools/project_wizards/fragment_structure.htm
+SHA1-Digest: fcEBy9etxsBd4Rr2Pr1R86b1+Xk=
+
+Name: tasks/ui_import_from_cvs.htm
+SHA1-Digest: KkM2gfr/1+B9PcXb/QOLX+rZl8s=
+
+Name: tasks/api_tooling_setup.htm
+SHA1-Digest: hXvUTEKEO+4WRIzr2jVMMmA+O2k=
+
+Name: guide/images/access_restrictions/hidden.png
+SHA1-Digest: ktwaTpF0oiJWYYhqO+ChCB1E2/g=
+
+Name: reference/api-tooling/wizards/ref-api-compare-wizard.htm
+SHA1-Digest: 9nSSPPeKEnhdDKawag7vINfag0Q=
+
+Name: reference/api-tooling/images/api-problem-filter-prop.png
+SHA1-Digest: 75t7TfY0s7fkyBahzXAGYBNbxc8=
+
+Name: guide/images/product_editor/splash_location.png
+SHA1-Digest: b/FPfdxzZGbV4IXonzUzXwBTWPA=
+
+Name: guide/tools/target_shared/import_arguments_dialog.htm
+SHA1-Digest: dz1tr+QfYWIkcRBgGgVYNgwDNK0=
+
+Name: guide/images/product_editor/launcher_arguments.png
+SHA1-Digest: xodeeLj/wOHbeMsxsH/pGi1eG8M=
+
+Name: reference/api/org/eclipse/pde/build/package-summary.html
+SHA1-Digest: zZcbqbs9FN87QCHghHM6dGIQ0PA=
+
+Name: guide/tools/pde_actions/task_wizards.htm
+SHA1-Digest: F9lJG7mL3FKMcmvL0cxIXV8yD5o=
+
+Name: guide/images/target_editor/content_page.png
+SHA1-Digest: CeooEio9IXrpQfgjFfdy/KYTml8=
+
+Name: reference/api/org/eclipse/pde/build/class-use/IFetchFactory.html
+SHA1-Digest: FNYa7QbNvK5UCsEj2mRJTKUtooc=
+
+Name: guide/tools/target_shared/new_target_wizard.htm
+SHA1-Digest: rBDXTEIL8d1Bp4LgVFJaasS0GOI=
+
+Name: reference/api-tooling/images/api_options_usescans.png
+SHA1-Digest: koStTiQhYQ5S0sTIItqLLMIHSYM=
+
+Name: guide/images/new_wizards/feature_explorer.PNG
+SHA1-Digest: +NfGEATjFdEHbnQTpd9C7G5WRIE=
+
+Name: reference/extension-points/org_eclipse_pde_ui_launchShortcuts.ht
+ ml
+SHA1-Digest: v4lm1nCnZB9mZjr3OFMJcsGz+zY=
+
+Name: guide/images/pde_actions/externalize_strings_substitution.png
+SHA1-Digest: pUn6iZvPZ5lQlpg5PxqvEn4NJco=
+
+Name: reference/api/index-files/index-1.html
+SHA1-Digest: O5lYE/KGvNZseY4vtOgavIAcJlc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensions.html
+SHA1-Digest: +ZvsivDikUltxPFk2w8trUJYz2I=
+
+Name: reference/api-tooling/images/errorwarning-prop-page.png
+SHA1-Digest: rTTEgFz6YveRTvIr5WpwVLSBdGU=
+
+Name: guide/tools/preference_pages/osgi_frameworks.htm
+SHA1-Digest: dtj2twuHsS/3fqyqYINcG2rN+0Q=
+
+Name: guide/tools/file_wizards/new_file_wizards.htm
+SHA1-Digest: DWULwMHu3yFIUpgNzwNQ3Ioh+r0=
+
+Name: reference/extension-points/org_eclipse_pde_build_fetchFactories.
+ html
+SHA1-Digest: QFzyXCOrC32miqSoSuEVrZ4qbZM=
+
+Name: reference/misc/api-usage-rules.html
+SHA1-Digest: mjn427baxXVv+1IfRsz6pwVdIVw=
+
+Name: guide/tools/editors/simple_cs_editor/section_content.htm
+SHA1-Digest: pFgHdqn0dQJguX+RxsLtQq9XBso=
+
+Name: guide/images/preferences/outline.png
+SHA1-Digest: oo3zCHNVkCQ02Gp5cW0bdl+kzyQ=
+
+Name: reference/api-tooling/images/api-setup-wizard.png
+SHA1-Digest: FW4k9S+++CWOVVR5koQ0uG4gGsU=
+
+Name: concepts/fragment.htm
+SHA1-Digest: +iKSaj1R4rMwOtID7ZaMVhyBlq0=
+
+Name: whatsNew/images/target_source.png
+SHA1-Digest: FkEax+fdm7VRY3uXLnJlY7VPzuc=
+
+Name: guide/images/launchers/launcher_eclipse_main.png
+SHA1-Digest: blpUEna7EGfZFFI5BrwVP7U5ARQ=
+
+Name: reference/api/org/eclipse/pde/core/project/IRequiredBundleDescri
+ ption.html
+SHA1-Digest: 4BxOhHomg4iggZLL9krGhDlxBKE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-frame.html
+SHA1-Digest: hIzicdKZOtgS+Dq5NwnMFNNk8p8=
+
+Name: guide/tools/editors/target_editor/environment_page.htm
+SHA1-Digest: AotlbnbCgLq+Uk97JTqXJCjiyIU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PDESourcePat
+ hProvider.html
+SHA1-Digest: kDAQAOB3eaOwoJ5x+499+jEo5oY=
+
+Name: guide/images/product_editor/splash_custom.png
+SHA1-Digest: vUgSLc+xzhX+v/FMfCgr8VDftzk=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IFragmentMod
+ el.html
+SHA1-Digest: KTb7Dw75IbmsxAlwkWRYvW2R+Ts=
+
+Name: guide/tools/project_wizards/new_update_site_project.htm
+SHA1-Digest: ye7liMQzTfz3u44pP77Whx81PcQ=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseAppli
+ cationLaunchConfiguration.html
+SHA1-Digest: vTsVA2F7C24bF1z6T90nUIKvns8=
+
+Name: guide/tools/editors/composite_cs_editor/editor.htm
+SHA1-Digest: CMLjTFUGliygEk9vN8ywnlC5H8s=
+
+Name: guide/tools/target_shared/location_edit_directory_wizard.htm
+SHA1-Digest: K3d1NavgZ7Drwo86HByd5x+45Os=
+
+Name: contexts_PDE.xml
+SHA1-Digest: l1wX1HGsfNuW/yb3KZG9WQyXU1o=
+
+Name: reference/extension-points/org_eclipse_pde_ui_pluginContent.html
+SHA1-Digest: HlJUYs52JfvbILsVmxQZFiBxVzc=
+
+Name: guide/images/simple_cs_editor/wizard_register_selection.png
+SHA1-Digest: vrXoMJXbnY1aSXovkkpZpGVZV3M=
+
+Name: guide/images/product_editor/configuration_plugins.png
+SHA1-Digest: S0KP+cqFPgzqIJHRh6eGdJug2Cg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-frame.html
+SHA1-Digest: 9qaSSBwbBmIspy0tkehMH2TCtPY=
+
+Name: reference/api/org/eclipse/pde/build/IFetchFactory.html
+SHA1-Digest: qW08DgtZGQHk7JvmkVvL/eA55hk=
+
+Name: reference/api/org/eclipse/pde/core/class-use/ModelChangedEvent.h
+ tml
+SHA1-Digest: Bh7PHVq7Q3xcO/Wf69B35nHseNY=
+
+Name: guide/images/schema_editor/editor_header.png
+SHA1-Digest: zpasnCZjuAx1RqN19TL4gqi0zjk=
+
+Name: topics_WhatsNew.xml
+SHA1-Digest: XljS/k3Z72XQ7nn7hEKo69hrkfE=
+
+Name: reference/api/org/eclipse/pde/core/project/package-summary.html
+SHA1-Digest: 3824mDovSLiTVq5Fxzig2bGJH1k=
+
+Name: guide/images/site_editor/archives_description.png
+SHA1-Digest: vGJ+NG7Cb5lV7OViNa54FqcwbR0=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangedListener.html
+SHA1-Digest: NYTldapcY6KojyGSwLfRy/S2Leg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/BundlesTab.html
+SHA1-Digest: 3AUB8CHxW5nWF4DcaaO/sRJMFZY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-summary.html
+SHA1-Digest: vCPoyL2mdzscSoxt93kObiILMfY=
+
+Name: guide/images/export_wizards/webstart_features.png
+SHA1-Digest: Gb2y1P55wj1LPuhEidYpm/yCNYk=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ModelEntry.h
+ tml
+SHA1-Digest: 75HnB+MMTO+ouZIHp/K4R61DZ1A=
+
+Name: guide/images/preferences/editors_xml.png
+SHA1-Digest: EUeS8/gQ1OwFtb4bs7930gzL1QY=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-use.html
+SHA1-Digest: zi6kQRx7DgXkfQw3iBo8WHiNebg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxPluginsTab.html
+SHA1-Digest: AtIHY7gre0ty70k1RJ+IAk5IJWA=
+
+Name: guide/images/product_editor/overview_exporting.png
+SHA1-Digest: d8uD8t2iipX0QBNRmnQpYx3h6ZQ=
+
+Name: guide/tools/editors/schema_editor/editor.htm
+SHA1-Digest: nV9fghTdADQ+wNMrogt7hqKzF4U=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseLaunchShortcut.
+ html
+SHA1-Digest: 9yV+UrnPCewoy4grHpwWN8aMggY=
+
+Name: guide/tools/editors/ctx_help_editor/ctx_help_editor.htm
+SHA1-Digest: idj/DBzJxYZITRwDy6xGV3ZWwD8=
+
+Name: guide/images/target_shared/location_selection.png
+SHA1-Digest: YCsWc54Ex2jcKlZPIB2A262VMFA=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IIdentifiable.html
+SHA1-Digest: 91O5Gv22xaT7NlcChiPbO7haPFI=
+
+Name: reference/extension-points/index.html
+SHA1-Digest: 1UaDP7jtQ0SDcQY7P+Osg7dah1Y=
+
+Name: guide/schema.css
+SHA1-Digest: +JDNrlm4djGBhkZ6rrJGhGOtQ8o=
+
+Name: reference/api/org/eclipse/pde/launching/package-tree.html
+SHA1-Digest: V9kpJeroOxa/3/t0zX50RTp18+Q=
+
+Name: guide/images/new_wizards/plugin_structure.PNG
+SHA1-Digest: mfJVxBWwxhuNJsyViZBJbpYoaEM=
+
+Name: guide/tools/project_wizards/plugin_structure.htm
+SHA1-Digest: 3NQMGCJ0WYBmsC3kegMvSTqZLTs=
+
+Name: guide/images/pde_actions/externalize_strings_selection.png
+SHA1-Digest: IDEOTrBBjGewdZ0X4ZecRice4HQ=
+
+Name: reference/api/org/eclipse/pde/core/project/package-use.html
+SHA1-Digest: bq46s6eY7lQ75bZyIybKQ//4Xks=
+
+Name: guide/tools/file_wizards/new_schema.htm
+SHA1-Digest: 603UwTnpd5dQukZAuRrKE4eE8gY=
+
+Name: reference/misc/overview-pde.html
+SHA1-Digest: vuwO+0B4Cuh3SVQH6YfcB2hU+VE=
+
+Name: guide/tools/views/target_platform_state.htm
+SHA1-Digest: 5xiEV2cH9kfwNyCUG3rIqCTLsrU=
+
+Name: reference/api-tooling/images/api-setup-wizard-preview.png
+SHA1-Digest: JeXWSONpIJbo+FooJ/LhmlFL4DE=
+
+Name: guide/images/new_wizards/feature2.PNG
+SHA1-Digest: lAaJLrNyVhj8LLlY2K+p3JoYSSE=
+
+Name: guide/tools/project_wizards/new_project_wizards.htm
+SHA1-Digest: LGbWjXgR1B71Gj0h6b38qJThKT0=
+
+Name: reference/api-tooling/images/sincetag-qf.png
+SHA1-Digest: Hcj6jI9A0pC9RmfMK55KYXDi0Gc=
+
+Name: guide/tools/preference_pages/feature_compiler.htm
+SHA1-Digest: arMYg6KP727AM0hlTHsb1rYujnA=
+
+Name: guide/tools/editors/feature_editor/dependencies.htm
+SHA1-Digest: IhCRvGPNNcNBom0Kz1JkozWU9Gk=
+
+Name: guide/tools/launchers/eclipse_main.htm
+SHA1-Digest: BO+LXDflkqYGJmYHcFxaBmqP0U8=
+
+Name: guide/images/feature_editor/plugins_details.png
+SHA1-Digest: QZ/biIqgYHJdAWLejtwBh3cCg2Q=
+
+Name: reference/api-tooling/ant-tasks/compare-ant-task.htm
+SHA1-Digest: 6WQZR0me2zupKbRS5JD5kSA448o=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuild.html
+SHA1-Digest: g0/j9iplrGs7PKICItQBLg4zVrI=
+
+Name: reference/api/org/eclipse/pde/ui/IFieldData.html
+SHA1-Digest: jpZP71+EN9qFM+5HSYgYz6tpP/E=
+
+Name: guide/images/product_editor/configuration_file.png
+SHA1-Digest: xq6SPrJWGZg5OSnChNDKZloXNAs=
+
+Name: reference/api/index-files/index-2.html
+SHA1-Digest: P1GDcMfA2MzMriDdFx2EDTF2uJo=
+
+Name: guide/tools/editors/feature_editor/information.htm
+SHA1-Digest: nQVn13wNmfeQz2/4T85jX1VWxfI=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard.png
+SHA1-Digest: tXoNlbSzs+7fDAyjArPXYJfnA20=
+
+Name: guide/images/tasks/feature-jar.png
+SHA1-Digest: n0xSemVWXk4yOy1DQEq81aF3Etc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-frame.html
+SHA1-Digest: D0SHEkX+3fE6tJo8zVdvq6U+QgU=
+
+Name: guide/images/feature_editor/dependencies_required.png
+SHA1-Digest: mp8TlV71OB684SjAPnEH8N+O928=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ISharedPluginModel.htm
+ l
+SHA1-Digest: pKEMMPh6XYOaSBeiEQXDzMab740=
+
+Name: guide/images/tasks/import-from-active.png
+SHA1-Digest: EtKfHX05f1o7PKVO+7kVVUMXgys=
+
+Name: tasks/pde_custom_callbacks.htm
+SHA1-Digest: 9BtJK4e0SGR6eC7daHW16qxItWg=
+
+Name: images/ngrelt.png
+SHA1-Digest: T/aObgW4iyz6C+UTnzXp4mA1cV4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PluginsTab.html
+SHA1-Digest: RmhT+0jimu7p3dgq5LBHFtLg3YY=
+
+Name: guide/images/import_wizards/plugin_import_for_existing.PNG
+SHA1-Digest: dH8OgD/IpKlKONOlkSsEuuj5+Ws=
+
+Name: guide/images/simple_cs_editor/section_step_master_2.png
+SHA1-Digest: zgjLovMXurXk0zdTV9qJAJ0Mf5k=
+
+Name: guide/images/simple_cs_editor/section_introduction_view.png
+SHA1-Digest: VWArY4t6jbNruRYRyBva8ddwShw=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/IPDELauncherCo
+ nstants.html
+SHA1-Digest: HMwsFvt8kf7/LtOCu+pRNfyRGu8=
+
+Name: reference/api/org/eclipse/pde/launching/IPDELauncherConstants.ht
+ ml
+SHA1-Digest: 8s4ROInIOSphjMYrXy60ygpWQr8=
+
+Name: reference/api-tooling/images/baseline-qf.png
+SHA1-Digest: x9eLthHI0zJkPVusCPQ8d9bhsbU=
+
+Name: book.css
+SHA1-Digest: MClO5/GoWcLp5H08L6Nzh9cySI0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ISharedPlugi
+ nModel.html
+SHA1-Digest: 0pXKJ2jhv6itz1tYx0+bwIt6yTU=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-package-page
+ .png
+SHA1-Digest: rAWyGQhAcmXdSmX4P/z04YTHr3w=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IPluginContentWizard.
+ html
+SHA1-Digest: 4kJfiIG34H3sYEKE2Eb8hg2sr6o=
+
+Name: reference/misc/index.html
+SHA1-Digest: ARmBt9V8wze7cuXhcSPKtLdDsrk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractPDELaunchConfi
+ guration.html
+SHA1-Digest: nODobHPaF5neSjceASsi8soDLJY=
+
+Name: guide/images/views/plugin_dependencies_state_status.png
+SHA1-Digest: KDUtd7VafLTDQQQwIFfCAEGAc1w=
+
+Name: guide/images/ctx_help_editor/help_context_second_topic.png
+SHA1-Digest: QwCiN8bQRjmMPFX4Nc0vjWfaZJE=
+
+Name: guide/tools/editors/product_editor/overview.htm
+SHA1-Digest: 5WK2yJzqOfUrTE5e69byyznczHI=
+
+Name: tasks/pde_controlling_output.htm
+SHA1-Digest: de7s4zu+46tfLx2gbcfI5d9o8p8=
+
+Name: reference/api/org/eclipse/pde/ui/IBasePluginWizard.html
+SHA1-Digest: l4oUEkwTjtK1Z9WZ86n47y4poWM=
+
+Name: guide/tools/file_wizards/new_category.htm
+SHA1-Digest: t0kGdD/m8S1TYcRzXPYaoGlmvsg=
+
+Name: reference/api/index-files/index-10.html
+SHA1-Digest: 0cXPeoMedSjJHCSoCjEZ9ALWNKY=
+
+Name: tips/images/package-prefix.png
+SHA1-Digest: wBECqMsOot5JSn63GkC1EreEoDI=
+
+Name: reference/api/org/eclipse/pde/core/IEditableModel.html
+SHA1-Digest: 6e05/w/NZ0y8oVJQCKKx4zZLJrg=
+
+Name: guide/tools/editors/simple_cs_editor/section_help.htm
+SHA1-Digest: mvYiiegLXxmDiCGMEq8J3wgDGIo=
+
+Name: guide/images/plugin_editor/public.png
+SHA1-Digest: ljDhjYkn1o9MnfGmx/hDgAeZfWI=
+
+Name: reference/api/index.html
+SHA1-Digest: wdVmHJg7M8MXPPev1pNIl0jaCWo=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IFragmentFieldData.ht
+ ml
+SHA1-Digest: hLVWI/YgwVhIcOsRsetTa5QchGg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxSettingsTab.htm
+ l
+SHA1-Digest: frruZR0x/j0/4phI9XYJ1HepUsA=
+
+Name: guide/tools/file_wizards/new_product_config.htm
+SHA1-Digest: rF4brL+Da9ZhIiR1NESFkmdxanI=
+
+Name: guide/tools/editors/simple_cs_editor/wizard_register-cheat-sheet
+ .htm
+SHA1-Digest: N7jOKH2SbRUhBsE8tpeNn76SiA8=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PluginJUnitMainTab.htm
+ l
+SHA1-Digest: CFQwBwMjK2yMQSVjA83rzZy+cGs=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractPDELaunchConfi
+ gurationTabGroup.html
+SHA1-Digest: bbdgm+snSxAJIC+Ak4aGbC5EY0A=
+
+Name: guide/images/schema_editor/section_general-information.png
+SHA1-Digest: Ld26LDKrhj2ogy0X12xy+dfDTyI=
+
+Name: guide/images/launchers/launcher_junit_main.png
+SHA1-Digest: Vq3pfkQ8wFQa/lushTva3ApbbxQ=
+
+Name: guide/images/pde_actions/convert_project.png
+SHA1-Digest: vUHwpNZBiEHbKtqLnSXc0Q/sByY=
+
+Name: guide/images/export_wizards/options_features.png
+SHA1-Digest: ANd3LIFu5mepQ6rpKzOfB2XsL9E=
+
+Name: guide/images/tasks/api_filter_properties.png
+SHA1-Digest: tDulTM0gTA4EtNWwcDivJ4r9doM=
+
+Name: tasks/pde_packager.htm
+SHA1-Digest: KCTIb+CV5GnMqyYhEPGEm34A2Kg=
+
+Name: guide/images/launchers/launcher_eclipse_features.png
+SHA1-Digest: Xt1U5oaL/9B1bQDttFbhYixCtHs=
+
+Name: guide/tools/project_wizards/fragment_content.htm
+SHA1-Digest: r0emH74acf9n9Of8jZEjYC42Zuk=
+
+Name: whatsNew/images/application.png
+SHA1-Digest: XdU7H5MJSmFWBBdxr6gKEr5ZCMo=
+
+Name: api_contexts.xml
+SHA1-Digest: GwNWqs3jq4zGSLgtkllh3IjHsao=
+
+Name: guide/images/plugin_editor/filter_pages.PNG
+SHA1-Digest: 5Zk/99CaI2mbPpWNmEQa7CZq+2A=
+
+Name: guide/images/feature_editor/information_license.png
+SHA1-Digest: uw8EVuVVZsPfQNCwyZ1YsrB1uXM=
+
+Name: images/ngrelc.png
+SHA1-Digest: AtrS4kkJDBiPeN+v4oUlyJqqi/M=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/PDESourcePathProvider.
+ html
+SHA1-Digest: esnyrAutqAFY17BY4BLWodCPkiw=
+
+Name: guide/tools/editors/feature_editor/installation.htm
+SHA1-Digest: JMlLMvH1juop9LKsM/8y9zuid5s=
+
+Name: reference/api/org/eclipse/pde/ui/IExtensionEditorWizard.html
+SHA1-Digest: WpxpIk8IeLPH74h7fGNQVI4o2nQ=
+
+Name: reference/api-tooling/images/api-compare-wizard.png
+SHA1-Digest: R7CrfHzeriydKczuR3w2iWoQGKo=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractCho
+ iceOption.html
+SHA1-Digest: amOWxFi4fTjlLDLx4yKGm3SiDCQ=
+
+Name: tasks/pde_individual_source.htm
+SHA1-Digest: mnwO9z/ROGc+yq4gNt6YiaX7zv0=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/EquinoxLaunchC
+ onfiguration.html
+SHA1-Digest: qsoolx/AKFCs0JPWZ9qL9iGb9wA=
+
+Name: guide/images/simple_cs_editor/section_step_master_1.png
+SHA1-Digest: +xxaOcU6wWp3ITirzxQ93jmIYtY=
+
+Name: reference/api/index-files/index-3.html
+SHA1-Digest: dWPThXrceTH8M+j/vR67iFzDFO4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensions.
+ html
+SHA1-Digest: q2geSjtIayRAcAwELZomEJn2Vf8=
+
+Name: guide/images/feature_editor/features_details.png
+SHA1-Digest: 47+h5peqp3764Pi4mqiFJR6QkuI=
+
+Name: reference/api-tooling/images/api-use-pattern-wizard-conversion-p
+ age.png
+SHA1-Digest: Am5dzM+MloT6hbEDvPGsCbR+1YQ=
+
+Name: guide/tools/pde_actions/update_classpaths.htm
+SHA1-Digest: RqEFpuYzYT0MPxsFIRMAvM3S9vs=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BaseOptionTemplateSec
+ tion.html
+SHA1-Digest: vATfVObdXT6bhodfgGtpAo/UXIo=
+
+Name: guide/images/schema_editor/section_schema-inclusions.png
+SHA1-Digest: mdzyB/zpA22zVd/ekJa4rAWNeeM=
+
+Name: guide/images/new_wizards/user_assistance.png
+SHA1-Digest: FnULlWLGQupBmXjplQ5CyjKgP+8=
+
+Name: reference/api/overview-tree.html
+SHA1-Digest: U95zyvhUQdJKec/TNUC8FuWRTEk=
+
+Name: guide/images/new_wizards/category_definition.png
+SHA1-Digest: HN7wPKyq5OLf5pxfhONZJO+PI54=
+
+Name: guide/images/target_shared/import_arguments_dialog.png
+SHA1-Digest: QXD3CqDk6h+m7K+RFhj4a1DPiHI=
+
+Name: guide/images/preferences/target_locations_group.png
+SHA1-Digest: QYnGQjWTS36EWpuiagI7s9Tgjj0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/OptionTemplateWizardP
+ age.html
+SHA1-Digest: AUtzCaIZr/7vsZmFOYkFHztRE0g=
+
+Name: reference/api/org/eclipse/pde/ui/templates/IVariableProvider.htm
+ l
+SHA1-Digest: iZ+53JrU+PPL+o3CduW67AKEkrk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLauncherTabGroup.h
+ tml
+SHA1-Digest: eQeJiLytaSO5a7SNQV/5oqIGbqY=
+
+Name: guide/tools/editors/manifest_editor/access_rules.htm
+SHA1-Digest: 6FIbbD9rabJvLZ+UuEAFf6TE6+A=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensionsModelFactor
+ y.html
+SHA1-Digest: FRxWof0EKpQh80+H1GIJjnTvd/E=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitWorkbenchLaunchSh
+ ortcut.html
+SHA1-Digest: U/4f2WOLlGKj6fJLXQ8MdiadyiY=
+
+Name: tasks/pde_compilation_env.htm
+SHA1-Digest: zE2KEhSLWAovU0tauZjDQbVbqdk=
+
+Name: index/indexed_contributions
+SHA1-Digest: IECUQVCIJ7W510IkOb82v/pNtyQ=
+
+Name: tasks/pde_p2_productbuilds.htm
+SHA1-Digest: 8FUkyvErBDCRxNKM/OFeIg3iHc0=
+
+Name: guide/images/site_editor/map_environment.png
+SHA1-Digest: +pweGDCfWlY5ELatcxQdVz2+HRc=
+
+Name: reference/api/overview-frame.html
+SHA1-Digest: Itkff9IiiwmZAEmg26Nr0MIAMmk=
+
+Name: reference/api-tooling/images/filter-qf.png
+SHA1-Digest: O1FOOX+1tbRKmYYr3iqCykDFFCo=
+
+Name: reference/api/org/eclipse/pde/ui/package-use.html
+SHA1-Digest: m94EOqOrlYmpWzsx42VAeII9v6Y=
+
+Name: tasks/pde_p2_configuringproducts.htm
+SHA1-Digest: dNOjRjqhNn3yXeu608ww/rspQlk=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildModelFactory.html
+SHA1-Digest: +J1p4QXSxY01YCqfiXZ8pm4Dc8I=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IFieldData.html
+SHA1-Digest: 6TNeOB0bNnZ+m4Ks8l3o+sXEQYA=
+
+Name: guide/tools/editors/feature_editor/feature_editor.htm
+SHA1-Digest: jMYY1f6irUh1hmRVVvSij0JUUDg=
+
+Name: reference/api/index-files/index-11.html
+SHA1-Digest: JNOhTfbU8rYR5rlWzHpYWX5+0q4=
+
+Name: reference/api-tooling/images/remove-filter-qf.png
+SHA1-Digest: fw5cAI3h8xfeHOncUEB5Ln8X4IY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-use.html
+SHA1-Digest: 4/jgXUnTUf6AHRMtV21Z+/9KARM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitTabGrou
+ p.html
+SHA1-Digest: 317xPcZB+1cZv0DagvLJBF/lM7s=
+
+Name: guide/images/launchers/launcher_eclipse_common.png
+SHA1-Digest: SvPc7+0qv5WLw/L+G7+3Bl6xrLs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModelBase.html
+SHA1-Digest: RJvKiF7V6Y09BQ5DQynEzIs3jPM=
+
+Name: guide/images/export_wizards/plugin_available.png
+SHA1-Digest: h3GFHmXUEN/wJl9KpnHJDQctwYY=
+
+Name: guide/images/plugin_editor/extensions_details.png
+SHA1-Digest: /Udvp2l4EXDu4oANUhgLOgeKnNc=
+
+Name: guide/tools/editors/manifest_editor/dependencies.htm
+SHA1-Digest: VttJiviqQU/QXTDs4445Duqs/ho=
+
+Name: concepts/product.htm
+SHA1-Digest: iG9NywZ23HErqn+dwDdNaQFusKw=
+
+Name: images/ngrelr.png
+SHA1-Digest: OzguzM/OK663iNL85kw/xEyPpdw=
+
+Name: reference/api/org/eclipse/pde/ui/IProvisionerWizard.html
+SHA1-Digest: 3/WnOgGWBF/34PWF167kKZtknFk=
+
+Name: guide/images/target_shared/edit_target_arguments_tab.png
+SHA1-Digest: 6FI4RoV2ZTlL0HVug8agGCqmJTc=
+
+Name: whatsNew/images/default-workspace-preference.png
+SHA1-Digest: jZdUujWklC1+b+eW5Vlj0UP9K9s=
+
+Name: guide/tools/editors/simple_cs_editor/page_cheat-sheet.htm
+SHA1-Digest: LwUDJ6xGh6tyNV/yQCYKGFSZUpY=
+
+Name: whatsNew/images/target_update.png
+SHA1-Digest: kFc1/J2x266zFpp1pVXNr5o+iH4=
+
+Name: reference/api/deprecated-list.html
+SHA1-Digest: U/iuOjh5mMYSRcKJVzUa2/y1ktA=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginAttribute.html
+SHA1-Digest: j8tAPomjWjCqyDhQeZ3ABnScJh0=
+
+Name: tasks/pde_p2_reusingmetadata.htm
+SHA1-Digest: 0lrVRlsm2Ke4hpfyrDoFUbSfYW8=
+
+Name: guide/tools/editors/product_editor/configuration.htm
+SHA1-Digest: 9nCsTlmgOLKMcuQv68x65X4M6NM=
+
+Name: reference/api/index-files/index-4.html
+SHA1-Digest: o4iGlyHSplP1NKZIcHlWJ8aRCyE=
+
+Name: guide/tools/export_wizards/export_features.htm
+SHA1-Digest: uz2yXz56epJtwWBqDklmRMk18j0=
+
+Name: guide/tools/import_wizards/import_plugins.htm
+SHA1-Digest: Epyf5J7/GNtxk+9buC8Mj9dmgyE=
+
+Name: guide/tools/editors/simple_cs_editor/section_command.htm
+SHA1-Digest: TMOBcI1m8z1EoUEO9zk3wQYcXNY=
+
+Name: reference/api-tooling/images/use-ui-patterns.png
+SHA1-Digest: iT8BLhPKqzotEh9WV5TiWg8aY8g=
+
+Name: reference/images/pde-tools-flyout.PNG
+SHA1-Digest: zOvGMcJ66OH5bCHpJDLwLQxbdnc=
+
+Name: guide/tools/preference_pages/runtime_classpath_properties.htm
+SHA1-Digest: pX/+FtdSpUlIt611JlRYXuRXiHU=
+
+Name: guide/tools/views/error_log.htm
+SHA1-Digest: ZUCAQFd7l6AuTk2BQfI+z8R1OTw=
+
+Name: guide/images/tasks/baseline_dialog.png
+SHA1-Digest: N6g3arqlkRz9XiteVr701jn6ZqI=
+
+Name: guide/images/plugin_editor/extension_points.png
+SHA1-Digest: m+3L+mErTDLdomQAau23yuecWT8=
+
+Name: guide/images/export_wizards/target.png
+SHA1-Digest: obVaIEj7/LgA+EdAZwHiXuffogs=
+
+Name: reference/api-tooling/images/version-qf.png
+SHA1-Digest: ya5KrHLMYseJ/yiklJ0cI3OlPPs=
+
+Name: guide/tools/editors/schema_editor/page_schema_definition.htm
+SHA1-Digest: Ti6NIz1Ai4PPvN/lt1wa6a/a+nA=
+
+Name: concepts/extension.htm
+SHA1-Digest: BDiXoGOQ8hhBG4ji1O1dPT51l+4=
+
+Name: guide/tools/export_wizards/export_plugins.htm
+SHA1-Digest: s+5OqDvZsbIRUlbHeY+kwvv5HE8=
+
+Name: reference/api/help-doc.html
+SHA1-Digest: AfLQa6Wb95QgWI+Zfn48+iO0RwY=
+
+Name: guide/images/launchers/launcher_eclipse_configuration.png
+SHA1-Digest: FSDsuJ89g+TYhntI1v7FnzuLPFg=
+
+Name: guide/images/export_wizards/destination.png
+SHA1-Digest: 5kOBrk8gQATftyWAmh/c4h21uWg=
+
+Name: reference/extension-points/org_eclipse_pde_core_targets.html
+SHA1-Digest: mkI/OMQByRFRNCbe/KY5WdX+pTg=
+
+Name: guide/tools/views/plugin_dependencies.htm
+SHA1-Digest: tY04kVRl/RrTBOcixfYivbGIf2Q=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleProj
+ ectDescription.html
+SHA1-Digest: X18ki/xJlkADAaODvEzmHex/W3c=
+
+Name: reference/api/org/eclipse/pde/ui/templates/PluginReference.html
+SHA1-Digest: MSW4nRpuQz0hkhkKwa0Nyx2OlNw=
+
+Name: guide/tools/editors/target_editor/definition_page.htm
+SHA1-Digest: EjQ/EyFO6rfLzOwFAnIZnT+qT5g=
+
+Name: reference/api/index-files/index-12.html
+SHA1-Digest: o6smzqr/S2qcJgn1t6LYO3owjoc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/TestTab.html
+SHA1-Digest: sAxrUMGCgp/i2PJFiO/U+Fm3jBI=
+
+Name: guide/tools/file_wizards/new_target_definition.htm
+SHA1-Digest: QZ2/p6qA26mxGwegRrmpYG0X60Y=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxLaunc
+ hConfiguration.html
+SHA1-Digest: anXgUcKk4ZVrgY0AZRROzLsWy+4=
+
+Name: guide/images/target_shared/location_preview.png
+SHA1-Digest: GXn3lyMz5ECgDktDHFz4BxATdVw=
+
+Name: guide/images/schema_editor/section_element-details_2.png
+SHA1-Digest: aRpg0f2D60BHWY8uZ5iocTWzm1o=
+
+Name: guide/tools/launchers/equinox_settings.htm
+SHA1-Digest: TPL08QDpTrIfsNBt4Gjt1joJUQo=
+
+Name: guide/images/new_wizards/schema.PNG
+SHA1-Digest: 7refcNZgEd9KhvbIaS//ZHhGCyg=
+
+Name: reference/api-tooling/quickfixes/ref-api-version-qf.htm
+SHA1-Digest: yG+qoidZZ6WtYw5J15l/UXnVVL8=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IExtensionWizard.html
+SHA1-Digest: LUJ8aEZdjwYAj9Tc7dTyvhkC4MQ=
+
+Name: guide/images/simple_cs_editor/section_introduction_master.png
+SHA1-Digest: KfJgETNrdE9LGQDxhnE7xPRJD6M=
+
+Name: whatsNew/images/shared-license.png
+SHA1-Digest: EECWX2trSodjBl6Qu3KUcUarZQA=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProviderListe
+ ner.html
+SHA1-Digest: +RisB9Uo9bmWd0l5n1nx0upH/hs=
+
+Name: tasks/pde_version_qualifiers.htm
+SHA1-Digest: 07Y0Nh5jqa9Yq5c3l+E0Gj5y5g4=
+
+Name: reference/api-tooling/ant-tasks/apimigration-ant-task.htm
+SHA1-Digest: dhLt8WNLyrXACmUtgw6pja2S1Jk=
+
+Name: guide/images/plugin_editor/dependencies_required.png
+SHA1-Digest: BstO6uIKj473BbRynm83oUJJZ+4=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/TemplateFie
+ ld.html
+SHA1-Digest: u2HKMCWFpiRm7LUpFpj3IoaHVlo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-tree.html
+SHA1-Digest: U5fPpYWuBKvfDn/1EvlSWZTsnrU=
+
+Name: guide/images/toc_editor/link_details.png
+SHA1-Digest: la0PBUkcVFBPJKw8wVNfkzJjfbs=
+
+Name: reference/api/org/eclipse/pde/core/package-use.html
+SHA1-Digest: jPh0A/nSzTsjy8VeBUEtGgOqviU=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BooleanOpti
+ on.html
+SHA1-Digest: gTysVcA03WC6SRPUNyMrnDTz1mo=
+
+Name: guide/images/toc_editor/topic_details.png
+SHA1-Digest: 01TWQAsuX/Jz5E0ReGFEcu5UG7o=
+
+Name: guide/images/import_wizards/feature_import.png
+SHA1-Digest: qODSdue48kmJjwKuxN1c+ieLAb0=
+
+Name: reference/api/org/eclipse/pde/launching/OSGiLaunchConfigurationI
+ nitializer.html
+SHA1-Digest: Jk/muPP7AhF4wEtszj7THzai+UQ=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_3.png
+SHA1-Digest: Sd1OijdcZLQ3yHHODSdJPVrL0BI=
+
+Name: guide/images/target_shared/edit_target_implicit_tab.png
+SHA1-Digest: reb3GhF3SboPGYOlUawIRIg4r6s=
+
+Name: reference/api/org/eclipse/pde/core/plugin/package-summary.html
+SHA1-Digest: A36YktTECkywI9hAZa5Y7tIuohw=
+
+Name: reference/api-tooling/ant-tasks/analysis-reportconversion-ant-ta
+ sk.htm
+SHA1-Digest: /7gjtGoZwBLwvosM4IWBKT3En2k=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchCo
+ nfigurationInitializer.html
+SHA1-Digest: mwd/uLleqDFWE68okJd1s2v2Tsg=
+
+Name: guide/images/new_wizards/new_ctx_hlp_wizard.png
+SHA1-Digest: P12MACLgHOlZS8DpzBOtBoeLTwQ=
+
+Name: guide/images/simple_cs_editor/section_title_master.png
+SHA1-Digest: nYNc9h5mfDVhAggTWfRebxfH8GI=
+
+Name: reference/api-tooling/ant-tasks/apiuse-ant-task.htm
+SHA1-Digest: +3qnn4C6rv3Wn7l2PM7/OFxYU1I=
+
+Name: reference/api/org/eclipse/pde/core/project/IPackageImportDescrip
+ tion.html
+SHA1-Digest: gb6WRxYpdm+hoI/gSmM0gZslWjI=
+
+Name: guide/images/access_restrictions/properties.png
+SHA1-Digest: JiX0k2QRlsIgDu3nLo/h9EjPdSI=
+
+Name: guide/images/new_wizards/product.PNG
+SHA1-Digest: nfBFOxiGD8dHohwhZgb7zyvu/gg=
+
+Name: guide/images/launchers/launcher_eclipse_plugins.png
+SHA1-Digest: DEGKGRoSuFMQ3XaA/o0QuPV9s3Q=
+
+Name: guide/tools/target_shared/location_edit_site_wizard.htm
+SHA1-Digest: mfW8F734bX3K9/yAr2iFrEPzjWM=
+
+Name: reference/api/index-files/index-5.html
+SHA1-Digest: gBanVQaszIoZTkGrSumSlBuTEBw=
+
+Name: guide/tools/editors/target_editor/content_page.htm
+SHA1-Digest: UR5K+ezZEoTwjHaIhZNAGAOAnmU=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/RadioChoice
+ Option.html
+SHA1-Digest: jrWtxIVBJSJ+Vgt403ef3nrePyo=
+
+Name: guide/images/site_editor/map_managing.png
+SHA1-Digest: p4GEVWvlAiGRS5zQrpmyl4mD1nI=
+
+Name: reference/api-tooling/actions/ref-apitooling-setup-action.htm
+SHA1-Digest: jJM2IYkRlU9rmk+XUPAHzY27Wfg=
+
+Name: guide/book.css
+SHA1-Digest: UMymrK+AgdTCdmpE+RqJTcjMAG8=
+
+Name: guide/images/new_wizards/fragment2.png
+SHA1-Digest: fPxFyofsQxqiQjjQA6nHEOW8ldo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginReference.html
+SHA1-Digest: g+cu3ofLewcCMYejRiP53BG0kyE=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IExtensionsModel.html
+SHA1-Digest: irWpNVUC9sOm/FXV0/sCqwpJNQM=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/BaseOptionT
+ emplateSection.html
+SHA1-Digest: a5BnEo2jImLi7jOd/OvcikBaG5w=
+
+Name: tasks/pde_rootfiles.htm
+SHA1-Digest: Xfb4HquzSHv+S1YtdeNITGzq8+g=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/OSGiLaunchConf
+ igurationDelegate.html
+SHA1-Digest: asz9NVfFyHDqin6SZAsgnpk7Zck=
+
+Name: guide/tools/launchers/junit_main.htm
+SHA1-Digest: SB5l3LdyHqfuSf4hbusiQNvNrTg=
+
+Name: reference/api/org/eclipse/pde/ui/templates/package-summary.html
+SHA1-Digest: 6cFx5DBfd6ZsQevKGgZhXkJgGFg=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProvider.html
+SHA1-Digest: hr1b86l7QfTeGpSIewvi2jENHL0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/NewPluginTe
+ mplateWizard.html
+SHA1-Digest: eh/EgNbcRhuiLskGdqOuzTaP9+g=
+
+Name: guide/images/launchers/launcher_eclipse_tracing.png
+SHA1-Digest: PkpN5xSJjBFsJ0+4GasmUfVlYMw=
+
+Name: guide/images/composite_cs_editor/section_task.png
+SHA1-Digest: 2KmWTmBqFthSegsR7YIF8YnykwM=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IBasePluginWizard.htm
+ l
+SHA1-Digest: q6+0BrUXOcuNsMYtq1Nq6N5UenY=
+
+Name: reference/extension-points/org_eclipse_pde_ui_templates.html
+SHA1-Digest: s+4ho/JtNoOX5xpsaEo/5XRqu4Q=
+
+Name: tasks/pde_fetch_phase.htm
+SHA1-Digest: blX26mHXuEHk4ZFnBBq3Is0DuJ0=
+
+Name: guide/images/schema_editor/section_element-details_1.png
+SHA1-Digest: txxUH1SeRWn6nddGjs1wRrqBzb8=
+
+Name: guide/images/target_editor/definition_page.png
+SHA1-Digest: /uK9767m95O1eDAGuauUju8BbDc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/TargetPlatform.html
+SHA1-Digest: PPPuT9fi2lUpS1kspU5/ryQo04I=
+
+Name: tasks/pde_p2_featurebuilds.htm
+SHA1-Digest: gOKo19ZX0gtSmATIgjxAx9uvJfQ=
+
+Name: guide/tools/editors/product_editor/launching.htm
+SHA1-Digest: yXGSr5mQvl9x6CiHHHAaPfwyH7M=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginParen
+ t.html
+SHA1-Digest: +H23zJAju5Rfm/oNb0avFY3c/Wk=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseLauncherTabGrou
+ p.html
+SHA1-Digest: N8G/RdM/WHbjo4hL50FNJCwR0e0=
+
+Name: reference/api/constant-values.html
+SHA1-Digest: v1mJwz75GAyNP7PtIMP3E2+ZOcs=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangedEvent.html
+SHA1-Digest: PiNsnQFa/xJtngiNYJcKu0MUS20=
+
+Name: guide/images/new_wizards/feature_patch.PNG
+SHA1-Digest: aAKgSMXK06b+hj2itBhzQeQJKNA=
+
+Name: reference/api/index-files/index-13.html
+SHA1-Digest: bp/06bQGfn0YmcoKIwDc6jvKZuo=
+
+Name: reference/api-tooling/images/api_options_version.png
+SHA1-Digest: tQAvPtHb3zImRd40vrhuPVfhI0c=
+
+Name: reference/api/org/eclipse/pde/core/plugin/PluginRegistry.html
+SHA1-Digest: KsqLsxTfUwUwSVNbWakTbI9YDEE=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ITemplateSe
+ ction.html
+SHA1-Digest: KbWttUHusSaFdT3zbUyC3S7u0nQ=
+
+Name: reference/api/org/eclipse/pde/core/IModelProviderEvent.html
+SHA1-Digest: AfDsFVirPKpOr7yssS5l9R3DpuE=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildModel.h
+ tml
+SHA1-Digest: zmazIMyy3X9PRNAtIy4Z2pVbMH0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ .html
+SHA1-Digest: Xdv7Ffrc7UQacN+AQiVjxYa4LAk=
+
+Name: reference/api-tooling/images/api_options_usage.png
+SHA1-Digest: /PjR/uWb43zF3RKpEV/auxQqBeo=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildModel.html
+SHA1-Digest: s6kvW/yXqNYHer9L1W/hwIWPVIU=
+
+Name: reference/api/org/eclipse/pde/launching/OSGiLaunchConfigurationD
+ elegate.html
+SHA1-Digest: QcW1rdRw8I1jMScN6HEhcOGV5X4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/PluginRegist
+ ry.PluginFilter.html
+SHA1-Digest: yduvUYmaLqq7npBrmdj1s/s8Ld0=
+
+Name: reference/api/org/eclipse/pde/ui/templates/TemplateOption.html
+SHA1-Digest: bKmCGQsQNjsQ5NfaWXOq+qDQBg4=
+
+Name: guide/images/plugin_editor/overview_execution.png
+SHA1-Digest: xlzjaTE2vYhoAygUL9+ulxRtg/w=
+
+Name: guide/images/access_restrictions/friend.png
+SHA1-Digest: kH9aIXJ6EU5UjtWZteo2x4yzYUE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiSettingsTab.html
+SHA1-Digest: oQBmBTbwcnaaHD+qU/qPADFeNG8=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_2.png
+SHA1-Digest: UBfNjG8QO0KXzBUNifV4UMhsmN4=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildModelFa
+ ctory.html
+SHA1-Digest: XXMTmSQ6DajqJCr7GFDop+iFO4g=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ Factory.html
+SHA1-Digest: vjl0M9WQ31Kd3qdI1NswKYAig60=
+
+Name: guide/images/views/perspective.PNG
+SHA1-Digest: H5a1aoGPmUnzJplz+ICiF6yC1w8=
+
+Name: guide/images/simple_cs_editor/section_command_details.png
+SHA1-Digest: Ia85eN4g6cWsqPUxCnLo6ystobw=
+
+Name: guide/images/new_wizards/new_wizards_projects.png
+SHA1-Digest: Wdm21Ib7k9EmVUDxAFlYU3gPraU=
+
+Name: guide/tools/editors/simple_cs_editor/section_sub-step.htm
+SHA1-Digest: wK9wnCHFMoshJeOe1sGzKSeevbc=
+
+Name: reference/api-tooling/wizards/ref-api-baseline-wizard.htm
+SHA1-Digest: 2WXla7EbYbaSMsZ9pHeXGjYx9SA=
+
+Name: whatsNew/images/edit-default-workspace.png
+SHA1-Digest: UOGXlfrlmALWuPjol2eMDLN/MqA=
+
+Name: guide/images/launchers/launcher_eclipse_arguments.png
+SHA1-Digest: 9fHeiEUNjbGdMMA1CCmQ7PGrs4A=
+
+Name: reference/api-tooling/ant-tasks/deprecation-ant-task.htm
+SHA1-Digest: tLSlyOF4KSsPXXzxqrW3F0IF+gk=
+
+Name: guide/images/simple_cs_editor/wizard_register_category.png
+SHA1-Digest: ZcFsPcMTVZm5AR1fO7XgLnHZaY0=
+
+Name: guide/images/plugin_editor/classpath.png
+SHA1-Digest: lBzgzR7QSzQRcNtVSrwsiy56aL0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/ISharedExten
+ sionsModel.html
+SHA1-Digest: 8kQDH2IFTLOttCZLekrgrw5QrIM=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginElement.html
+SHA1-Digest: aPVZ0i8o3w8LV3S9K8epGDy8/P8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginExten
+ sion.html
+SHA1-Digest: jvrx3niC0hF3ItBthV/O9vQI4iM=
+
+Name: guide/tools/editors/simple_cs_editor/section_step.htm
+SHA1-Digest: fJqmtPztraymvtBPTLlJAwjZGHs=
+
+Name: reference/api-tooling/ant-tasks/apimigration-reportconversion-an
+ t-task.htm
+SHA1-Digest: lK+qQWw361TA0Wi3pYrD4K8PxIs=
+
+Name: guide/images/product_editor/launcher_ee.png
+SHA1-Digest: 7QFzBccNt8X8Y98xVyrTPhywpYA=
+
+Name: guide/tools/editors/manifest_editor/overview.htm
+SHA1-Digest: 8OGxHxCOmgQ1kNYm0ZMZEYSAYhE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EquinoxLaunchConfigura
+ tion.html
+SHA1-Digest: lRggvpACsdDKKdAaZLswPF2TLdI=
+
+Name: guide/tools/project_wizards/new_fragment_project.htm
+SHA1-Digest: kcO/Hri3MdcjiS8NH7YgAEtLw/Q=
+
+Name: guide/images/new_wizards/fragment1.png
+SHA1-Digest: OrXzJXlht59B7jmX9HvBYksMC18=
+
+Name: guide/images/plugin_editor/dependencies_analysis.png
+SHA1-Digest: Z1vzeMLVawhgxmEOKaX3wb2EeEw=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelProviderEvent
+ .html
+SHA1-Digest: XqEjgz38dMVc8s2rk9Mc1WiVck8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IFragment.ht
+ ml
+SHA1-Digest: sWSFIkcJ0SuBktCQHtXwMIAe+aQ=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractTem
+ plateSection.html
+SHA1-Digest: X41cnxPqs/Y6lFNrkULXzyLFrow=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangeProvide
+ r.html
+SHA1-Digest: H4nWN1DH12ZQ2DUSynzmfQoQFOM=
+
+Name: reference/api-tooling/ant-tasks/apifreeze-ant-task.htm
+SHA1-Digest: PkIfRkhpMWzW+I3glCCziDSoqTE=
+
+Name: reference/api/org/eclipse/pde/ui/IFragmentFieldData.html
+SHA1-Digest: dLq++2rDAm+VEgwc+MQ40/wmRaw=
+
+Name: reference/api/org/eclipse/pde/launching/EquinoxLaunchConfigurati
+ on.html
+SHA1-Digest: jzzLSFw4Wyc2w5qUzCPyXUjq/hI=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxSetti
+ ngsTab.html
+SHA1-Digest: Jf/Wr1L2xMrv52uI8+XQLDpR/Js=
+
+Name: reference/api-tooling/ant-tasks/deprecation-reportconversion-ant
+ -task.htm
+SHA1-Digest: 2poy0NeTJt06giE2pX54GNHfFG0=
+
+Name: reference/api/index-files/index-6.html
+SHA1-Digest: LFeJ+WJDUaz1ozBQB2J9PdUY8pQ=
+
+Name: guide/tools/target_shared/edit_target_locations_tab.htm
+SHA1-Digest: rnVZogYNbJUALmig/yfniIOB1UE=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuildEntry.h
+ tml
+SHA1-Digest: XhK6AJciyhnP6okWM9Ky/XTd9vU=
+
+Name: reference/api/org/eclipse/pde/core/build/IBuildEntry.html
+SHA1-Digest: mDMxgqK/n9MbNGc+YmHn0dbs8uA=
+
+Name: whatsNew/images/api-errors-warning-api-use-scan.png
+SHA1-Digest: ypo8HKmU6PkF5nBGR8KsLxTAuek=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/EclipseApplicationLaun
+ chConfiguration.html
+SHA1-Digest: 0mY3eZkSF+bROMep8WErRBvoXTY=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PluginJUnitM
+ ainTab.html
+SHA1-Digest: CoMqhG+Wu2qCGPv+yw7oBD+Zoyo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginExtensionPoint.
+ html
+SHA1-Digest: aB647lgSl0zrVg9VkW5mDc48ANU=
+
+Name: guide/tools/editors/composite_cs_editor/page_cheat-sheet.htm
+SHA1-Digest: 8jg5cUQL65MIqTWMj2M5NoD5v2U=
+
+Name: guide/images/new_wizards/site_explorer.PNG
+SHA1-Digest: 9jJAqLiWYO6j+aF9c5uRdH/3ZAs=
+
+Name: guide/images/launchers/launcher_equinox_arguments.png
+SHA1-Digest: 0G7H3CMaX98FH6xfFkDgWdnAE84=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BlankField.html
+SHA1-Digest: EL2kvrjVEJ5x0RYbCYKnukai8nw=
+
+Name: reference/api-tooling/images/baseline-qf-dialog.png
+SHA1-Digest: bN3iqEkWtu5cMSAnbfMxljViHNo=
+
+Name: reference/api/org/eclipse/pde/ui/IBundleContentWizard.html
+SHA1-Digest: 3Qe97ldEXp1RjPN3q0h/4Z5AnzM=
+
+Name: guide/images/new_wizards/plugin_templates.PNG
+SHA1-Digest: fAjiRIKp4e3RHbwP5VAagiULUXE=
+
+Name: guide/tools/project_wizards/plugin_templates.htm
+SHA1-Digest: bH+PbJ8KDdp7ApI5Tz/mNBvqOU0=
+
+Name: tasks/ui_export_install_into_host.htm
+SHA1-Digest: trql/1+78mx2JK2XmWqtNB9WxVI=
+
+Name: guide/tools/editors/simple_cs_editor/section_introduction.htm
+SHA1-Digest: TaN6cEWIuy+lmUFwXB+0Rp97eYs=
+
+Name: reference/api-tooling/quickfixes/ref-api-api-filter-qf.htm
+SHA1-Digest: L37/gAXvK2vkGHqGVdPeoyaccoI=
+
+Name: reference/api/org/eclipse/pde/core/build/package-use.html
+SHA1-Digest: BXGoILbcEMDjkNYOhfiuwIbeEf0=
+
+Name: guide/tools/editors/product_editor/editor.htm
+SHA1-Digest: EA31gaScJM6TJwuEsByDN9NR7as=
+
+Name: guide/images/simple_cs_editor/dialog_composer_details_1.png
+SHA1-Digest: Zp771ACwl1jquRP9Uy68o2/2kUg=
+
+Name: guide/images/new_wizards/site.PNG
+SHA1-Digest: Sfs8h0t7cjri4fVDM4WiDc2vlkg=
+
+Name: reference/api/index-files/index-14.html
+SHA1-Digest: c4vCltaXIM+4oLjiK7RtFf974aM=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IHostDescri
+ ption.html
+SHA1-Digest: rAnzlgj3XeQzo2kfLYFiNxyF+RM=
+
+Name: guide/tools/editors/toc_editor/editor.htm
+SHA1-Digest: H6teaMXTFAykXk9UieZIU8USsY8=
+
+Name: guide/images/access_restrictions/visible.png
+SHA1-Digest: 1l/WjF2boEM9XcmHF8b2PqbFNk4=
+
+Name: guide/images/export_wizards/product.png
+SHA1-Digest: fWDqz2cgUH6KbUG2lOeL9N0Lhx8=
+
+Name: guide/images/launchers/launcher_junit_test.png
+SHA1-Digest: wju4QVxT+z3hJJhW6fyWzWuBroU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractLaunchShortcut
+ .html
+SHA1-Digest: vLCDXy5ETSe4QGt/KZ6ktdFMf5A=
+
+Name: guide/tools/target_shared/implicit_plugin_selection_dialog.htm
+SHA1-Digest: fR9aEKN5LZNBtXHwZ/F1Hy0N5G0=
+
+Name: guide/images/export_wizards/options_plugins.png
+SHA1-Digest: 67LU7+KML9wJtL8u3qIF3d+fuZo=
+
+Name: guide/images/new_wizards/bundlizer2.PNG
+SHA1-Digest: 0jBRS6qAIyQPWZFfcp3eQgaTels=
+
+Name: topics_Tasks.xml
+SHA1-Digest: Vy5m+Ht7V5PT59LFcwIe2CjDwFc=
+
+Name: reference/api/stylesheet.css
+SHA1-Digest: ImkIJB0RcjV0xhyiSqc3bT1SXE8=
+
+Name: reference/api/org/eclipse/pde/ui/templates/NewPluginProjectFromT
+ emplateWizard.html
+SHA1-Digest: knlpzYIIiA0gNbSP9x08CakFXJE=
+
+Name: guide/images/preferences/compilers_features.png
+SHA1-Digest: G/ECk+vzGTqk9Ej7AyIqircviVY=
+
+Name: guide/images/preferences/editors_manifest.png
+SHA1-Digest: ie6ISuEsWjsXG1zU1T4p0Af2NPg=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/AbstractPDELau
+ nchConfiguration.html
+SHA1-Digest: JIkD53+yejD7YYV+o1y40I4woyg=
+
+Name: reference/api-tooling/images/sincetag-dialog-qf.png
+SHA1-Digest: r9RgzsqnvAsmqfpiZiJhzk/2/94=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/PluginRefer
+ ence.html
+SHA1-Digest: 9Rco0/unAnVJKLevOg6SVAxDOtU=
+
+Name: reference/api/org/eclipse/pde/core/plugin/PluginRegistry.PluginF
+ ilter.html
+SHA1-Digest: tzN/0wFHmlKrrbfMRhzl8PRmOrc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiSettings
+ Tab.html
+SHA1-Digest: DZegxVXPDu79UsLzkTqh7FxHsfg=
+
+Name: guide/tools/editors/manifest_editor/extensions.htm
+SHA1-Digest: 1t6dEH/GbDhjO8u0mSCcYU4bxpI=
+
+Name: guide/images/target_editor/environment_page.png
+SHA1-Digest: X4D+pMwlk6Rz/qH7NOvPakBpJeo=
+
+Name: reference/api/org/eclipse/pde/core/IModelChangeProvider.html
+SHA1-Digest: fjDV3uUBmwe5nUTr9VWv3Oob3jU=
+
+Name: guide/tools/target_shared/location_edit_installation_wizard.htm
+SHA1-Digest: qc4bjwNwKKegpQ62MFUzZlFvUbI=
+
+Name: guide/images/simple_cs_editor/section_help_details_link.png
+SHA1-Digest: k+kDzSK+sQEB91ETpf2FChjlM38=
+
+Name: reference/api/org/eclipse/pde/core/build/package-frame.html
+SHA1-Digest: jkApp6uoXcQe+RGKr8DEbw6KYPo=
+
+Name: guide/tools/preference_pages/plug_in_development.htm
+SHA1-Digest: h4Fzl3TV/S0SMViTdI1DZKI08I4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractPDEL
+ aunchConfigurationTabGroup.html
+SHA1-Digest: Yq0ttmYphvAmgRwFZkvgO2Z661k=
+
+Name: tasks/pde_p2_buildtasks.htm
+SHA1-Digest: jakW2Y18fOOc8kzZ+NIGzivoZ88=
+
+Name: guide/tools/preference_pages/preferences.htm
+SHA1-Digest: xFjJXiEt1w9W47Eb4S4Inx0B8t4=
+
+Name: guide/images/access_restrictions/forbidden.png
+SHA1-Digest: X54N975AFsSBcfckTQCvu9GtRJA=
+
+Name: whatsNew/images/product-properties.png
+SHA1-Digest: QfsGbPGFs+DA1f44s2jwDCZDY+4=
+
+Name: guide/tools/editors/simple_cs_editor/section_commands.htm
+SHA1-Digest: AWy01ZQkC+JhwsjC7ees3J96ArE=
+
+Name: guide/images/launchers/launcher_equinox_settings.png
+SHA1-Digest: A9U9C8wVD3xD6aPfaYgp+KTO8gs=
+
+Name: guide/images/views/all_views.PNG
+SHA1-Digest: U37bIZZwuC1BiNCYtm/TftBFUzE=
+
+Name: guide/images/pde_actions/update_classpath.png
+SHA1-Digest: vclA41KdEIJPGvW41FXAg/jRmeo=
+
+Name: guide/tools/preference_pages/schema_compiler.htm
+SHA1-Digest: PXlMDVrNhv7qf2AbjV3Jxf7vV2E=
+
+Name: reference/api/index-files/index-7.html
+SHA1-Digest: GzpfmKLVKput9ofHDHDPceakjFs=
+
+Name: guide/images/simple_cs_editor/section_sub-step_master.png
+SHA1-Digest: wdBYGYt3uuxZijb9OJt7Wk7fL7E=
+
+Name: guide/images/composite_cs_editor/section_enclosing-text.png
+SHA1-Digest: GA778yeQfqLxx2CLFfEYc9ob2RM=
+
+Name: guide/images/product_editor/branding_about.png
+SHA1-Digest: wE6eHNAn3fK2j77AruIso+cnJjA=
+
+Name: guide/images/product_editor/overview_testing.png
+SHA1-Digest: QIQ2ybn9Rmsbc8vuJwbYgV/N+t8=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitWorkben
+ chLaunchShortcut.html
+SHA1-Digest: m3SelXWxzeJz4tVWMsj6WCijxXU=
+
+Name: reference/api-tooling/images/sincetag-editor-qf.png
+SHA1-Digest: fCVRNeEbrQhERN008gfecJtMZ4k=
+
+Name: guide/images/new_wizards/fragment_explorer.PNG
+SHA1-Digest: 48vAEJ1bx9xrO58bJK3vddWJZ6Y=
+
+Name: guide/images/ctx_help_editor/help_context_topic_details.png
+SHA1-Digest: reu6MV1hXDFk/ZWFh51M4R/3MJU=
+
+Name: reference/extension-points/org_eclipse_pde_ui_samples.html
+SHA1-Digest: PdwLZ+ERmfzdowwAEW2SmRosSb8=
+
+Name: guide/images/pde_actions/organize_manifest.png
+SHA1-Digest: U0x9+GYbye30+SaIPXf19rreCKc=
+
+Name: reference/api/org/eclipse/pde/ui/package-tree.html
+SHA1-Digest: GmSEurGE748OTipLR2djt8wRQGI=
+
+Name: guide/images/views/plugin_1.png
+SHA1-Digest: bCR6dTuMpdYdA/UQuAYVnAFjpvU=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/AbstractNew
+ PluginTemplateWizard.html
+SHA1-Digest: OYkD9yxqVlTzH+dH65z2RWVsOGY=
+
+Name: guide/tools/editors/simple_cs_editor/section_command-details.htm
+SHA1-Digest: LgcAIZSPeV+smaX+6SClG2/02XQ=
+
+Name: reference/actions/ref-pdetools.htm
+SHA1-Digest: k5D69XQbGxA2KPCR8eLYgsAZ6Bk=
+
+Name: index/_0.cfs
+SHA1-Digest: Gl9AUUQVh1zdHHYID+5GBvFzppo=
+
+Name: guide/tools/launchers/plugins.htm
+SHA1-Digest: kcsDgjuWAs+RyBfx0dweWFnzqn8=
+
+Name: index/_0.cfx
+SHA1-Digest: 1vr5rfyGsWLJWhFH6jYXb/EyszM=
+
+Name: guide/images/simple_cs_editor/section_help_details_none.png
+SHA1-Digest: gAipfeHGPnISWqODO+AZpsO4uVA=
+
+Name: reference/api-tooling/images/api_options_analysis.png
+SHA1-Digest: aL6i2YbCJk+PXifW2HGBQSpY/u4=
+
+Name: guide/images/views/plugin_dependencies_flat_callees.png
+SHA1-Digest: 9m7y4fsNYA/IIUQJy6hfyTkX7R8=
+
+Name: guide/images/target_editor/content_page_feature_mode.png
+SHA1-Digest: SRty9Tqr5JrCwRAR4C63IaGHJzg=
+
+Name: guide/tools/editors/simple_cs_editor/section_title.htm
+SHA1-Digest: tefjqZxdpurjOYdTnViZ3OpaMFw=
+
+Name: reference/api/org/eclipse/pde/launching/package-use.html
+SHA1-Digest: xARtghK93w9M0n1b9HwMAIvJHxA=
+
+Name: tasks/pde_feature_generating_ant.htm
+SHA1-Digest: yvzbGfal5UPEKGhaFZqsMqsk9Kc=
+
+Name: tasks/api_tooling_create_filters.htm
+SHA1-Digest: wdojpuYy8nEnBPfbzvpEzUrwva8=
+
+Name: guide/images/schema_editor/section_element-reference-details.png
+SHA1-Digest: tZaDLPP1fSHrxX5MDIHKyyowWas=
+
+Name: reference/api-tooling/images/success_ovr.gif
+SHA1-Digest: 7nEGyUsQnl/dEEyOXGNdNPPx/2c=
+
+Name: reference/pde_builder_config.htm
+SHA1-Digest: 3CVXCQYZNJ5yS47P8JzRMZUVRz4=
+
+Name: guide/images/feature_editor/overview_environments.png
+SHA1-Digest: DBRcCii7VacA8BJxsYUwdaLx3BA=
+
+Name: reference/api/index-files/index-15.html
+SHA1-Digest: q6Q8/ykyLmNXqFhgMu8/LY6nNaA=
+
+Name: guide/images/feature_editor/dependencies_properties.png
+SHA1-Digest: UNKfV2RgMYHUh+JGw4am6HKndtg=
+
+Name: index/segments_2
+SHA1-Digest: doybtOJeIreDNbzEAKkJU6aTdIg=
+
+Name: guide/tools/launchers/tracing.htm
+SHA1-Digest: 8GTIOUhzdDDuomV/63tcCsa0Dxw=
+
+Name: guide/images/new_wizards/plugin_content.PNG
+SHA1-Digest: XZrop8lp2Dr8QQQujsw+gcRfobc=
+
+Name: guide/images/new_wizards/bundlizer1.PNG
+SHA1-Digest: 484EtobhXYwXV1nYufQazMg+PyU=
+
+Name: tasks/pde_customization.htm
+SHA1-Digest: DEjOiHsHwQxDx1BEHQIMiS05ISo=
+
+Name: guide/images/target_shared/new_target_wizard_template.png
+SHA1-Digest: z1t0y7yh6ARznOEI358DV6+cWVE=
+
+Name: reference/api/org/eclipse/pde/core/ISourceObject.html
+SHA1-Digest: yXcLm1uNSA8OZ7ttMBX1RrYsUb0=
+
+Name: guide/images/access_restrictions/convert.PNG
+SHA1-Digest: hjxgj4x24ODLav4j5bPKD6l/eDc=
+
+Name: guide/tools/editors/site_editor/site_editor.htm
+SHA1-Digest: oiZNBJiwnF4D6a+0eZhW54mcaNk=
+
+Name: guide/images/simple_cs_editor/dialog_composer_master.png
+SHA1-Digest: vqTbCxJwkEOmVRX3Q5e3nlYeSdg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractLaun
+ chShortcut.html
+SHA1-Digest: vPOudkGQZwTXQwEiR/2cdcpv4Zg=
+
+Name: guide/images/feature_editor/plugins.png
+SHA1-Digest: OZiypO09UeJHjM3aKrNP4gbya/M=
+
+Name: guide/tools/editors/manifest_editor/runtime.htm
+SHA1-Digest: VJI3cGTU4yiMMozQOeTrLOLLCSA=
+
+Name: reference/api-tooling/images/api_options_compatibility.png
+SHA1-Digest: Za5U5Ra8aIH63HITSF9cvxk9SPA=
+
+Name: guide/images/access_restrictions/compiler.png
+SHA1-Digest: fbSHJknucZT1k4andUNztoKCCXs=
+
+Name: guide/images/ctx_help_editor/help_context_filled.png
+SHA1-Digest: V4Mi0thGebbADWuWTn0GIN5MaEs=
+
+Name: reference/api/overview-summary.html
+SHA1-Digest: MO4mU131p9Bq2zo+hk5X0jUDUzw=
+
+Name: guide/images/plugin_editor/dependencies_automated.png
+SHA1-Digest: mNHoW09DxwsHkB4GyxDfLEY2ISo=
+
+Name: guide/images/feature_editor/overview_general.png
+SHA1-Digest: z/3+YPUAbZxP9zdI2b7JZOQqemY=
+
+Name: guide/tools/project_wizards/new_plugin_project.htm
+SHA1-Digest: +nGjLC/eZAp8y9v+1ZAWXRuW8sI=
+
+Name: reference/api/index-files/index-20.html
+SHA1-Digest: dh+O45c8bJ0GL2s9PhB2BSNt/wg=
+
+Name: guide/images/target_shared/location_site_include.png
+SHA1-Digest: D0iIKU6VWkw4OmORuMt2ltKlbiA=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginExten
+ sionPoint.html
+SHA1-Digest: lHYzE0jcA/F4pnJNacGoqu/VV7Y=
+
+Name: guide/images/import_wizards/import_from_all.PNG
+SHA1-Digest: RIzsCjCsSVeWOPAmUX2GBevrxBM=
+
+Name: concepts/feature.htm
+SHA1-Digest: sVgBPWMeM8HTKSLt4YgpHzcVNu8=
+
+Name: guide/images/export_wizards/feature_available.png
+SHA1-Digest: FYnJf7mfwvw6ySH6hWr1JxfLdnY=
+
+Name: reference/api-tooling/images/ok.gif
+SHA1-Digest: 6yoB5KmAYyeGm1TWiNiPpClfVBo=
+
+Name: reference/api/org/eclipse/pde/ui/templates/RadioChoiceOption.htm
+ l
+SHA1-Digest: T47cAk7MuWovI2eBU4K9aTPI9g4=
+
+Name: tasks/api_tooling_baseline.htm
+SHA1-Digest: JAFcm1XnGJIlkuIYbia9pLXxXKA=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/MainTab.html
+SHA1-Digest: J0ySQA95Im7g6pxGZbp27LBoJvU=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ISharedExtensionsModel
+ .html
+SHA1-Digest: TGJLw5Tb3lPSbjZijph/PqU/+f0=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchShortcut.htm
+ l
+SHA1-Digest: Eeq6vUzMSWvdSC+uQubbstzQr2c=
+
+Name: guide/images/target_shared/edit_target_wizard.png
+SHA1-Digest: CGZczcnBmTV16fdm/A9qxP1EiO4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/TargetPlatfo
+ rm.html
+SHA1-Digest: SQrMUFdEqfBKlYxfQYrdGSnN+DQ=
+
+Name: reference/api-tooling/images/api_tooling.png
+SHA1-Digest: Jdca/q/DSrc4FVAuWOWbK79K5ok=
+
+Name: reference/api-tooling/ant-tasks/apiusescan-problems-reportconver
+ sion-ant-task.htm
+SHA1-Digest: eAFmeCsXoMOpyg1gbh3yZgk4aBE=
+
+Name: reference/api/index-files/index-8.html
+SHA1-Digest: xjsIwh7BiQVze1FI0REFcpNJ6kI=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractNewPluginTemp
+ lateWizard.html
+SHA1-Digest: ZOpjD27+U8abXKjinzTBeHRlbho=
+
+Name: reference/api-tooling/propertypages/ref-errorswarnings-prop.htm
+SHA1-Digest: 2HpnEhHUcf8AnmKUmBiMrxey3tw=
+
+Name: guide/images/tasks/import-from-plugins-view.png
+SHA1-Digest: xGs1hHuGXDquXcuoi30Q6UHpRU8=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/IPDELauncher
+ Constants.html
+SHA1-Digest: iHpHiowGJHzmdKBi0JqgQX+NP2s=
+
+Name: reference/extension-points/org_eclipse_pde_ui_osgiFrameworks.htm
+ l
+SHA1-Digest: vJZU8m91xd5Rr1a6VExpCrMPDOE=
+
+Name: reference/api/org/eclipse/pde/build/class-use/Constants.html
+SHA1-Digest: uWyi+y9PoRME3ep7TbMSlf8O2/g=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IBundleContentWizard.
+ html
+SHA1-Digest: 9/tgP8psA6uYnyZQSVKvOVseTFo=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/TestTab.html
+SHA1-Digest: /37D52NjZWmI2oIWgmDoW9Vxxu0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModel.html
+SHA1-Digest: b4xgjmeDOsw6AKca77DBiHV52UM=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/PluginRegist
+ ry.html
+SHA1-Digest: 9Nf19OpbJtZ9ukMaeDYWUPeVc7w=
+
+Name: guide/images/simple_cs_editor/section_title_view.png
+SHA1-Digest: A2VFEDzR0GbzvWT02I9ppV64yLU=
+
+Name: notices.html
+SHA1-Digest: ckbYVP02YfSm8B2eYzRgTit5A08=
+
+Name: guide/tools/preference_pages/compilers.htm
+SHA1-Digest: XO5ptWRZiTdoZo1NdwQczR3V2W4=
+
+Name: reference/api-tooling/images/version-dialog-qf.png
+SHA1-Digest: Uhp99bjNk/rLen6EQJuj9bmITRo=
+
+Name: guide/tools/launchers/configuration.htm
+SHA1-Digest: 9YkzbaegfuPN5WFA/y8Ion0yhik=
+
+Name: guide/images/preferences/compilers_schemas.png
+SHA1-Digest: 5iTZp0dtBmxOJ8SKUJBleanj4YI=
+
+Name: concepts/plugin.htm
+SHA1-Digest: UjQIPcLaHa3Z9CgOX4Mt3rUkU1k=
+
+Name: reference/api/org/eclipse/pde/core/project/IPackageExportDescrip
+ tion.html
+SHA1-Digest: d0tIELd2pvbAS10q9zmdohTUejA=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/OptionTempl
+ ateWizardPage.html
+SHA1-Digest: b4onNDlqC4j5xbrZ3VvHtwSmCPw=
+
+Name: guide/intro/pde_overview.htm
+SHA1-Digest: /IX3oAg1RhfEGDKT73F+QUP2/8I=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractChoiceOption.
+ html
+SHA1-Digest: zd5gadwymc3CcYWwrtxnRkAWr0o=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/PDESourcePathP
+ rovider.html
+SHA1-Digest: hSrFyPCVQlM8jBL22dbto9Laiug=
+
+Name: guide/images/views/plugin_registry.png
+SHA1-Digest: 9r7gCAtZotEY9FZFI9CRh+rT0Sw=
+
+Name: guide/images/tasks/plugin_creation_wizard.png
+SHA1-Digest: sX8Ojit2hr0zXPO6kkrBK9Gsv4s=
+
+Name: reference/api/org/eclipse/pde/launching/PDESourcePathProvider.ht
+ ml
+SHA1-Digest: BgWGzx5DdnXbeN3hdTK0A4TWhzo=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginLibrary.html
+SHA1-Digest: WHvK25+IIPFBiV8J5k3ohqPxkVY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginEleme
+ nt.html
+SHA1-Digest: 4rtP1fJRvu9VkIAo7nN4AE7Oy7Q=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/EclipseApplica
+ tionLaunchConfiguration.html
+SHA1-Digest: 4R7UY5D4NfOStrONEKziJsLN6Yk=
+
+Name: guide/tools/editors/feature_editor/plugins.htm
+SHA1-Digest: 6yL3mx2aEhMzvVJ4NLyTKeZMX0M=
+
+Name: guide/tools/editors/feature_editor/included_features.htm
+SHA1-Digest: 5xYQciymmltj/PVQIhiJsSRYtqU=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginImpor
+ t.html
+SHA1-Digest: Yp+5RBxfHXh0TKYnjVQElxpi8ZQ=
+
+Name: reference/api/index-files/index-16.html
+SHA1-Digest: HMTpV8u4WHdS5kFwiIw3pdBGKYc=
+
+Name: guide/tools/editors/product_editor/licensing.htm
+SHA1-Digest: uUtUG3IvK2cEDyQ8eWj//1ME1XE=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ITemplateSection.html
+SHA1-Digest: QbwJrSaISUKbQ2+TfGIPuQ20RWk=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IMatchRules.html
+SHA1-Digest: IPPir7yEjLFE68xeEZNn8UMdT3Y=
+
+Name: guide/images/schema_editor/schema_identifier.png
+SHA1-Digest: tU85i/zcLMmayHsgoyIHPecauDM=
+
+Name: reference/api-tooling/images/version-editor-qf.png
+SHA1-Digest: v0jhJKRkjz/8xFg3peO2nFPyUpM=
+
+Name: reference/api/org/eclipse/pde/ui/IPluginFieldData.html
+SHA1-Digest: YrlpAIE+oHE6B5mhbf4TRgBb65M=
+
+Name: reference/api/org/eclipse/pde/launching/package-summary.html
+SHA1-Digest: 1JJjzLq0DJSAcIXzsX6JOW/B1wE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/AbstractLauncherTab.ht
+ ml
+SHA1-Digest: MkY6Lp9461ufkUcXVLmKReXvWlA=
+
+Name: whatsNew/images/teamcvs.png
+SHA1-Digest: /VsX2MN+3NVWI5wdVhGEyd0NRTI=
+
+Name: reference/extension-points/org_eclipse_pde_ui_targetProvisioners
+ .html
+SHA1-Digest: 7Z4OKPNI8SfOJP4x0CvAj1gV8vs=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginParent.html
+SHA1-Digest: sUPYFo9/C8iMqNxPlMahKOMsgpg=
+
+Name: concepts/update_site.htm
+SHA1-Digest: 4P0xAL5tQF5Oq0/Kx5/rEpYlyCM=
+
+Name: about.html
+SHA1-Digest: Wq0heBY4s9voo/AFtd2V4poDd7k=
+
+Name: reference/api/org/eclipse/pde/core/build/package-tree.html
+SHA1-Digest: +wQ6LtnsXdYUV7nrRGraxhDkt3U=
+
+Name: guide/tools/file_wizards/new_ctx_help.htm
+SHA1-Digest: YSLKLW6QPTswhpD/2A3M2dXaTwM=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IRequiredBu
+ ndleDescription.html
+SHA1-Digest: 1c/i8BeDzO96ZGKcLl/j6VhlZ0A=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/StringOptio
+ n.html
+SHA1-Digest: ec1rvRvy5wDasEmq21mfdCoAJ/s=
+
+Name: reference/api/org/eclipse/pde/core/ModelChangedEvent.html
+SHA1-Digest: 68w66/rl/m9qFTDZZbvCn4rap0I=
+
+Name: guide/images/plugin_editor/internal.png
+SHA1-Digest: 3glPq44lvnxsnUcd8ll2yN6Y9K8=
+
+Name: reference/api/index-files/index-21.html
+SHA1-Digest: XUOnag+6w6p1Zn3bQ4YEfI9BWg4=
+
+Name: guide/images/schema_editor/section_description.png
+SHA1-Digest: klh1PzputrGVaQOBTfHn2gl+Afo=
+
+Name: guide/images/plugin_editor/runtime_classpath.png
+SHA1-Digest: mMXkCIOQXyhYKYJYEFjwj7bzi0M=
+
+Name: whatsNew/images/consumer_configuration.png
+SHA1-Digest: YYYChN7FSYv9AnPnkNyOuxU7ids=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/OptionTempl
+ ateSection.html
+SHA1-Digest: MhqdoNiQ/LN7u76z0W4RKv9X16Y=
+
+Name: reference/api/org/eclipse/pde/build/package-tree.html
+SHA1-Digest: d4q4ddaze5pLNFkXdhM4obu+b6o=
+
+Name: guide/tools/target_shared/edit_target_implicit_tab.htm
+SHA1-Digest: z2t+FUVwuJglBww5oCRb4vBbk+c=
+
+Name: guide/images/composite_cs_editor/section_content.png
+SHA1-Digest: F0cSHTs9Efsk9apm41hY9257Zz4=
+
+Name: guide/images/site_editor/archives_mirrors.png
+SHA1-Digest: uBC6JyQXsL/KEQWGts3Qm6JA2qU=
+
+Name: reference/api-tooling/images/use-ui.png
+SHA1-Digest: 1LaIITksUAQHtcO7F4v2nZguoAk=
+
+Name: guide/images/composite_cs_editor/dialog_cheat-sheet-selection.pn
+ g
+SHA1-Digest: kvx06RB4EB5KUeGHbM/vaDcbUfg=
+
+Name: guide/images/ctx_help_editor/help_context_command.png
+SHA1-Digest: oZ0NCHry7oUC8btrqREs7LRwdks=
+
+Name: guide/tools/launchers/junit_test.htm
+SHA1-Digest: qUGnDk0Zbecc+hhb5DxQ2TA9+qE=
+
+Name: whatsNew/images/api-use-scan-preference-page.png
+SHA1-Digest: 39b6l8Pvg4T0rakMlkeFxL0wfFA=
+
+Name: guide/images/simple_cs_editor/section_title_details.png
+SHA1-Digest: cA37ftimSWAGmN7pkW1ur5sFv+o=
+
+Name: reference/api/org/eclipse/pde/core/IModelProvider.html
+SHA1-Digest: YwAmjSFiLfkND/dyh0pHRYX35Ao=
+
+Name: reference/api/index-files/index-9.html
+SHA1-Digest: Miy39QxT5wPv1l/XEJ211/CXC8g=
+
+Name: whatsNew/images/target-resolution.png
+SHA1-Digest: nQ+ab4A+t+J+6pe5RJaSo+hqtUQ=
+
+Name: reference/extension-points/org_eclipse_pde_ui_newExtension.html
+SHA1-Digest: cX6RThV2B3g6I8XKNdZ7kaUpDs8=
+
+Name: guide/images/composite_cs_editor/section_title.png
+SHA1-Digest: kZinmKaTh3NjVKHDkg3oZJPHuww=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/TracingTab.h
+ tml
+SHA1-Digest: OvM8JkQOGGwYVoCS7fNknXiaTaE=
+
+Name: reference/api-tooling/images/remove-filter-dialog-qf.png
+SHA1-Digest: dLVhM4cqoQi/SSMmW4eKBuuhe4E=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleProjectService
+ .html
+SHA1-Digest: kLIwyDCfBmFJNJsHEs1phsSalww=
+
+Name: guide/tools/editors/simple_cs_editor/editor.htm
+SHA1-Digest: Kv2/AvQhiOMAyYwZaQfumU/+dcQ=
+
+Name: guide/images/schema_editor/section_documentation.png
+SHA1-Digest: GtCkiDhy9f+PoiB6NIn/18o9tD0=
+
+Name: guide/images/preferences/compilers_plugin.png
+SHA1-Digest: vryPz8TqdCvy3LDrC9cbzh466LA=
+
+Name: guide/tools/target_shared/edit_target_wizard.htm
+SHA1-Digest: DBEgSr0kniwgiXEFAXrNPZFPAAQ=
+
+Name: guide/images/views/plugin_dependencies_hierarchical_callers.png
+SHA1-Digest: spue1XBrPAGJLneI7GlYjFHXJoA=
+
+Name: guide/images/target_shared/location_add_features.png
+SHA1-Digest: KZcYGBDd8pyQ2YjpYBUWOd/JaIw=
+
+Name: reference/api/org/eclipse/pde/core/package-summary.html
+SHA1-Digest: GBdLZRn4oRMFieUTvqVPfPYrlDg=
+
+Name: guide/tools/target_shared/edit_target_arguments_tab.htm
+SHA1-Digest: QdDnOZnckmColHtzTVvSGk4Umsc=
+
+Name: reference/api-tooling/views/ref-api-tooling-view.htm
+SHA1-Digest: vMM58LEdQ23geKR/QWBu/ww8vJc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/OptionTemplateSection
+ .html
+SHA1-Digest: Ig6bG3i6LUJZvvyzSN4nrBYMN9I=
+
+Name: reference/api/org/eclipse/pde/ui/templates/StringOption.html
+SHA1-Digest: YTcTo2xXmpUHEpQR4+vKWOxBfUU=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchCo
+ nfigurationDelegate.html
+SHA1-Digest: yxmP///3c5Dot7bcGuEeImci3Mw=
+
+Name: guide/tools/views/plugin_registry.htm
+SHA1-Digest: N+I2t/MyaOKlTzuuf1HTzwzqfIg=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleClasspathEntry
+ .html
+SHA1-Digest: wCogHIgJqxMakFKtCEpMW6QUEt0=
+
+Name: guide/images/new_wizards/wizard_new_cheat-sheet.png
+SHA1-Digest: R5govhCabclSDZc9OMpaBLungMs=
+
+Name: guide/images/plugin_editor/runtime.png
+SHA1-Digest: /edk8zVvUa+nQ8cpmNgkvm/jip4=
+
+Name: reference/api/org/eclipse/pde/core/plugin/ModelEntry.html
+SHA1-Digest: U+01Um32aA9Kns0p4N/p8VenXTQ=
+
+Name: reference/api/package-list
+SHA1-Digest: acM9YxY7WqyrJRpjI2kYhcOVNWA=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ChoiceOptio
+ n.html
+SHA1-Digest: u2/bjeDpc9qYWmf/keT08nelqlI=
+
+Name: guide/images/new_wizards/feature1.png
+SHA1-Digest: XHl6VZANqm9EcEhXxid31jVAEws=
+
+Name: guide/tools/export_wizards/export_target.htm
+SHA1-Digest: WTQvAyrlCE86eNWLe9NCQO9me08=
+
+Name: guide/tools/launchers/equinox_plugins.htm
+SHA1-Digest: xuG2aQpgMXP5k+HOl49LszNrLs8=
+
+Name: reference/api-tooling/images/remove-filter-editor-qf.png
+SHA1-Digest: QSxGd/2iTlN22xBymtrfsw7R5/A=
+
+Name: reference/api/index-files/index-17.html
+SHA1-Digest: i0Xd/LAHu8/pokRhsUCwj2NjXOw=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginObjec
+ t.html
+SHA1-Digest: uVGCf0bneGMkEwlVDEhsMWZTzmU=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangedListen
+ er.html
+SHA1-Digest: PSggQfSFfF45iAKPy7WH1AVGLNI=
+
+Name: guide/images/simple_cs_editor/page_cheat-sheet_header.png
+SHA1-Digest: 4O39E0tPrFX9Q9RRhRNSLAPhHPE=
+
+Name: guide/tools/pde_actions/externalize_strings.htm
+SHA1-Digest: fby8zCkc3iAsKME+1mWX8KgTYmc=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/ComboChoice
+ Option.html
+SHA1-Digest: KbeNfQokTdHZR8WhuWGFRst7hFQ=
+
+Name: guide/images/new_wizards/plugin_explorer.PNG
+SHA1-Digest: DeiKfH4yTiCyAP0EV6QyhpLcftU=
+
+Name: guide/images/schema_editor/section_attribute-details_4.png
+SHA1-Digest: n5bIE4RhKH71ErxghhzlTi5ld3M=
+
+Name: reference/api-tooling/ant-tasks/apifreeze-reportconversion-ant-t
+ ask.htm
+SHA1-Digest: 0VrXnfjzXXvuWln0qCjMJelGKDY=
+
+Name: guide/tools/editors/toc_editor/page_toc.htm
+SHA1-Digest: ZeTG/dZ8eL0B7phGt5hJ0+CbHZk=
+
+Name: guide/images/plugin_editor/runtime_exported.png
+SHA1-Digest: bNgJo2+Lsw41vEOnSt8hS+hwk0M=
+
+Name: guide/tools/editors/product_editor/branding.htm
+SHA1-Digest: d2H+o6zGr8hSzAzJ+Met7uMxwMI=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/IPDELauncherConstants.
+ html
+SHA1-Digest: 18Czt450vx8q935GxJ4ZnhXcDug=
+
+Name: reference/api/index-files/index-22.html
+SHA1-Digest: 9KLGVobCKvswdo6hDLH62JoznLM=
+
+Name: guide/tools/editors/feature_editor/overview.htm
+SHA1-Digest: MkBfEOpzLyu9uwpwj3xGzDpPx5o=
+
+Name: reference/api-tooling/api_javadoc_tags.htm
+SHA1-Digest: qyd4lonIwUNkmJBp0Ch1u8WU4Xg=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/package-tree.html
+SHA1-Digest: DCRIzz+ESQaAUh4R7w+qREVAs4s=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IPackageImp
+ ortDescription.html
+SHA1-Digest: o2JTrTAPmFVhoiwTRhNE+KfS5Jc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/BundlesTab.h
+ tml
+SHA1-Digest: xGEU7ziJ/FmvFbInm+3mVRmSfoY=
+
+Name: guide/tools/editors/simple_cs_editor/dialog_command-composer.htm
+SHA1-Digest: M7Jddd5vluglvVkQrQKqdgRfW8M=
+
+Name: index/segments.gen
+SHA1-Digest: hu6fBAUFuy+a0BRyv8bD8Q9vAJE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/Configuratio
+ nTab.html
+SHA1-Digest: IqDvxd4DPJAyEq8D4gYpIOVuZIs=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitLaunchConfigurati
+ onDelegate.html
+SHA1-Digest: Pup+EOGfaxd7rLqfirKhTF1komc=
+
+Name: guide/tools/editors/manifest_editor/editor.htm
+SHA1-Digest: VHHTCnkg6d2oTz6HRrYD86fgylg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginBase.html
+SHA1-Digest: ZhM+IDcNNVBQfj1/obABdwSzd+s=
+
+Name: reference/api-tooling/wizards/ref-apiuse-patterns-wizard.htm
+SHA1-Digest: D9+ZMCIW3Md3Ov8kwxDqMpQHI3M=
+
+Name: whatsNew/default_style.css
+SHA1-Digest: vA38mV80Stvp4v9D+o9et7d3ddg=
+
+Name: guide/tools/views/plugins.htm
+SHA1-Digest: GtUMtsfvGF5fUVQiXX5FP0tSrrQ=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/OSGiLaunchConf
+ igurationInitializer.html
+SHA1-Digest: vanf05cHtJfn2GfBj7/Lm0vygr4=
+
+Name: tips/pde_tips.htm
+SHA1-Digest: QtQSwu63A88ym/QxY07AjfQxRCc=
+
+Name: guide/tools/editors/site_editor/site_map.htm
+SHA1-Digest: zYtvT2Oy4XIzUbWYqO/bHFXQNf0=
+
+Name: about.properties
+SHA1-Digest: Z6PJ2EdREl1IFfHb09sKHat3qhs=
+
+Name: guide/images/simple_cs_editor/section_help_details_id.png
+SHA1-Digest: kXSq8IZV72idgLFL9aPs6HwcnhM=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ChoiceOption.html
+SHA1-Digest: zGKTEMF4O9+f+qdtRmf5RFApGqw=
+
+Name: reference/api/org/eclipse/pde/ui/class-use/IExtensionEditorWizar
+ d.html
+SHA1-Digest: cH7jBJEhiIZjnmgclf0OJycjsHc=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/JUnitTabGroup.html
+SHA1-Digest: xxPpG7/B/i5rdru4ZaQApdnMUJs=
+
+Name: tasks/pde_feature_generating_antcommandline.htm
+SHA1-Digest: TcnB+0E2b6xadNfqlo3L2zVXBYo=
+
+Name: reference/api/org/eclipse/pde/ui/templates/TemplateField.html
+SHA1-Digest: D+iLz0ddMpyD3g17mm0GzMO8a34=
+
+Name: reference/api/org/eclipse/pde/core/build/package-summary.html
+SHA1-Digest: G9d1JjxI6mJoo25P8xXO01pvHdk=
+
+Name: reference/api/org/eclipse/pde/ui/templates/BooleanOption.html
+SHA1-Digest: RopoPIUcLLjfe6vtBdt/LJCyF00=
+
+Name: reference/api/org/eclipse/pde/core/package-tree.html
+SHA1-Digest: Lg9Vn2ee8MJiRojnVvU0bcqbpH0=
+
+Name: guide/images/composite_cs_editor/section_group.png
+SHA1-Digest: /f5y6cHRLbsdCYfxUo9f0aquCLA=
+
+Name: reference/api/org/eclipse/pde/core/IEditable.html
+SHA1-Digest: C/8P+O0BI2zFMPEerNgYdzVfs14=
+
+Name: guide/images/plugin_editor/overview_general.png
+SHA1-Digest: NWCT6F+wzC+mExFDJlYuVcrxXlw=
+
+Name: reference/api-tooling/images/filter-dialog-qf.png
+SHA1-Digest: CGKphh4OOoyzJdxdwH1CWmwX/hc=
+
+Name: reference/api-tooling/ant-tasks/apiuse-reportconversion-ant-task
+ .htm
+SHA1-Digest: 3YGuc+iciMnB0EwIR4PSEoaVKIw=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/TemplateOpt
+ ion.html
+SHA1-Digest: ZJDbCmnZOOtO/EDjBdGs4vLQExY=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IBaseModel.html
+SHA1-Digest: 6YClgtotBJ7sOXI7fdiK1Wgdflw=
+
+Name: toc.xml
+SHA1-Digest: ZcKIhpmhL77ODHXoToYWZPp+Dx8=
+
+Name: guide/images/schema_editor/section_attribute-details_3.png
+SHA1-Digest: n8PSIHvnCm4SqPxNrHfL41+aAkU=
+
+Name: guide/tools/project_wizards/new_feature_patch.htm
+SHA1-Digest: gh155qcw9NWOJXY3WUlzr45UeqI=
+
+Name: tasks/pde_product_build.htm
+SHA1-Digest: 40Da3nglYRAo8tyjGFzp3Rp6rbU=
+
+Name: guide/tools/file_wizards/new_cheat_sheet.htm
+SHA1-Digest: ekRt/pW1FFFfmmbkwsi/xWY5xZg=
+
+Name: guide/images/preferences/plugin_development.png
+SHA1-Digest: WFhIqvxwVDv1R0oXcZjXCYP8qY4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EquinoxPlugi
+ nsTab.html
+SHA1-Digest: 0mUxkNZafwyQnbV/REJ5dyZGZ0M=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/PluginsTab.h
+ tml
+SHA1-Digest: S4Y8FUliDVaJfMI03d4VT0J5ykg=
+
+Name: reference/api/index-files/index-18.html
+SHA1-Digest: 1rqMRefv6dZHZi3WDpyAvTrF2bo=
+
+Name: reference/api-tooling/ant-tasks/analysis-ant-task.htm
+SHA1-Digest: O40bqmcO5Pc/OU+viN9r+JulVVY=
+
+Name: guide/images/product_editor/launcher_program.png
+SHA1-Digest: +NEs20dHcPNMeRlX5JSmvkSRZXw=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IMatchRules.
+ html
+SHA1-Digest: BIWMi1oRYGiwoKklVoAuDM5T5mY=
+
+Name: guide/images/new_wizards/other_category.PNG
+SHA1-Digest: 4pYHtyJR0JgjV2f3Ci0HaVvbZB8=
+
+Name: apache_style.css
+SHA1-Digest: YR/AN3dmviCAJiElqtMRuNll96Q=
+
+Name: reference/api/org/eclipse/pde/core/IWritable.html
+SHA1-Digest: BB16Ya+mv74bsu/ctiEdKK4eLBI=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: KyT9FF7C7t86NoBoa2kZT3ZJBfw=
+
+Name: about.mappings
+SHA1-Digest: ADdlYOt4AwtwGHWXMtS82L17jE8=
+
+Name: guide/images/simple_cs_editor/section_sub-step_details.png
+SHA1-Digest: qYIBVASTDuphtLxyMRhpCDvBgJI=
+
+Name: guide/tools/import_wizards/import_features.htm
+SHA1-Digest: 7V4+mCD5mzwNSreC6r3m6ZbYnek=
+
+Name: guide/images/tasks/import-version.png
+SHA1-Digest: +SVCVjc7CrNly3Y2C8qc4u05i9Y=
+
+Name: guide/images/simple_cs_editor/section_step_view_2.png
+SHA1-Digest: ANVysYaRdahqqQHU8PiUM5TLYTI=
+
+Name: guide/images/schema_editor/section_compositor-details.png
+SHA1-Digest: 4Z/FJuojjU8Oe3lGVqAkdpM/nLk=
+
+Name: guide/images/simple_cs_editor/section_step_details_2.png
+SHA1-Digest: Is8AyxQZWZ+xW21M42qG8o/lA3g=
+
+Name: tasks/pde_compilation_order.htm
+SHA1-Digest: UEcYyqbb8Ifa4I8PooisePG+X9Q=
+
+Name: reference/api/org/eclipse/pde/core/class-use/ISourceObject.html
+SHA1-Digest: 5xt3JJvypjf5ADGckgSlnVgPpTE=
+
+Name: guide/images/pde_actions/actions_select.png
+SHA1-Digest: vifHYl1z0hrjK/dk3+CfWiEme2o=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginExtension.html
+SHA1-Digest: kfdK+H7EIOSI31oiNPqpgDp3K/o=
+
+Name: guide/images/target_shared/location_add_application.png
+SHA1-Digest: YgdVWu4/EDtLilgWasf/oScAtMk=
+
+Name: reference/api/org/eclipse/pde/build/IAntScript.html
+SHA1-Digest: NXV451YxKF2QIuYdFHaI1/I5xMY=
+
+Name: tasks/pde_p2_builds.htm
+SHA1-Digest: ezn7W0oBO6xGPmBwjMYw0BZybes=
+
+Name: reference/api/org/eclipse/pde/ui/templates/NewPluginTemplateWiza
+ rd.html
+SHA1-Digest: nrw74JoOBR/7bi6v+1qs1gg5SC0=
+
+Name: plugin.properties
+SHA1-Digest: Epuup7hTmbrjqVMq9l431VdMyco=
+
+Name: reference/pde_feature_generating_build.htm
+SHA1-Digest: fye/gcAZS7uTOnI91C+BkanmjSg=
+
+Name: reference/api-tooling/preferences/ref-usescans.htm
+SHA1-Digest: gyHc9ixL/dnxALB/SUYSR77Q+OY=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IEditable.html
+SHA1-Digest: k3upoovmN2xV+sWeT7Busp1O/JI=
+
+Name: index/indexed_dependencies
+SHA1-Digest: cusiSBRdw6p4iWBu83MBIBncFNM=
+
+Name: reference/api/org/eclipse/pde/build/Constants.html
+SHA1-Digest: odCFaKnFpFdg8tJvwjUOF0C0ehY=
+
+Name: guide/images/new_wizards/target.PNG
+SHA1-Digest: yCx3a+K7jYlntAWmWJL/80KNO2c=
+
+Name: reference/api/org/eclipse/pde/core/project/package-tree.html
+SHA1-Digest: ig9s5u9ytJnDbOVJO3/FdVw4WSY=
+
+Name: plugin.xml
+SHA1-Digest: 29L9olMGDD/1FaOUC2Fs3jCCPXs=
+
+Name: guide/images/feature_editor/features_included.png
+SHA1-Digest: 4S/1Bcy9ECMhUVNPv0ayYxxG5IA=
+
+Name: guide/tools/target_shared/edit_target_content_tab.htm
+SHA1-Digest: dbxIFsrW55hp+3EiKevk3o0d/uc=
+
+Name: guide/images/product_editor/overview_definition.png
+SHA1-Digest: IJQPIM7CUxYXuTbomUtA5jxzjdU=
+
+Name: index/indexed_docs
+SHA1-Digest: HuUml5CjUOrazz/R93xb5CbCQko=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginLibra
+ ry.html
+SHA1-Digest: Lan9SiGEB7ZsRrnQpUchJZM3ECY=
+
+Name: reference/api-tooling/images/error_ovr.gif
+SHA1-Digest: kjxmfEenOxQJm9GHTTuEbMkVRb0=
+
+Name: tasks/api_tooling_options.htm
+SHA1-Digest: T8ViqvGNElg4dDHIGXpHa2ds008=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchConfiguratio
+ nInitializer.html
+SHA1-Digest: bYkWottPfJDkAHAgdHOj8WW32RY=
+
+Name: topics_Reference.xml
+SHA1-Digest: tjqEiRXo+i5cvxUBYIrdYA7tcMM=
+
+Name: tasks/pde_p2_integration.htm
+SHA1-Digest: 6TauQfhmBmloubUc++Si5GSVV+c=
+
+Name: reference/api/allclasses-frame.html
+SHA1-Digest: PhGFJGLU3nPNwER0CWzkFcsbahs=
+
+Name: guide/images/schema_editor/section_attribute-details_2.png
+SHA1-Digest: 2vWXL/ceGv0IWjAoI5x2cL8AW4w=
+
+Name: guide/tools/pde_actions/convert_projects.htm
+SHA1-Digest: cL6duFDZfjm55IzRbzqh3kI4W1U=
+
+Name: guide/images/toc_editor/toc_section.png
+SHA1-Digest: Ta2p042/N/S9683094PfstDDMB0=
+
+Name: guide/tools/target_shared/location_add_wizard.htm
+SHA1-Digest: N0VYoxWTMxclP971HyY43cXwXds=
+
+Name: guide/tools/launchers/environment.htm
+SHA1-Digest: sf3CUbLXwGhl9+7TVvYDzOvEwjQ=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/JUnitLaunchC
+ onfigurationDelegate.html
+SHA1-Digest: pWS8AsX+8NAL6ocDMINdcmmvdU4=
+
+Name: guide/images/target_shared/move_target_wizard.png
+SHA1-Digest: qZgHcfDisyGgy0lndbQgAsfhCAk=
+
+Name: guide/tools/preference_pages/editors.htm
+SHA1-Digest: EmrXKHAp/U/hBDZKZAEPO7mDgXE=
+
+Name: reference/api/org/eclipse/pde/core/IModel.html
+SHA1-Digest: bocdoqH+vfIOh0FOISOHgpZmrzI=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IWritable.html
+SHA1-Digest: X2d0TxSs136An0R74zj3rMeb0f4=
+
+Name: reference/api-tooling/ant-tasks/filegeneration-ant-task.htm
+SHA1-Digest: qSOIMQczyvjc3a+deVyq5PiBrd0=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/OSGiLaunchConfiguratio
+ nDelegate.html
+SHA1-Digest: w+gZ1BOm6PaBZWILYsZ2D5cOZtg=
+
+Name: reference/api/org/eclipse/pde/launching/class-use/JUnitLaunchCon
+ figurationDelegate.html
+SHA1-Digest: rpjD+pS3jLhCfx/mGqhaC2DVPBI=
+
+Name: guide/images/plugin_editor/binary_source.png
+SHA1-Digest: a4r/omOg2W9Uyi0o4iL1+NFUSwM=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLaunchSh
+ ortcut.html
+SHA1-Digest: FkoEwz60ZL4MN5Mh3sH1G63tD5M=
+
+Name: reference/api/org/eclipse/pde/core/IIdentifiable.html
+SHA1-Digest: ZXBv/0QEtZDr5ydqPelXfIBt87s=
+
+Name: guide/tools/project_wizards/plugin_from_archives.htm
+SHA1-Digest: yWsaX6nK1TfJEJD0N6mogrklpqE=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/EclipseLaunc
+ herTabGroup.html
+SHA1-Digest: ukv5IyTu/If7qVIspvUfeml2foY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginModel
+ Base.html
+SHA1-Digest: NCE5mqt26ld5zrZtX4FfzLBmpTw=
+
+Name: reference/api/index-files/index-19.html
+SHA1-Digest: Nfsomsy9mAbE7vzQrukwpqcTYPI=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractPDEL
+ aunchConfiguration.html
+SHA1-Digest: tVrP+CdIKGiICCE/OOd29pwFM30=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleProj
+ ectService.html
+SHA1-Digest: hJHLt4FooGhWaCcTywMpLieoeBs=
+
+Name: guide/images/simple_cs_editor/section_step_view_1.png
+SHA1-Digest: CDP7W6VCbpZ4lViXYBDtofUb824=
+
+Name: guide/images/simple_cs_editor/section_sub-step_view.png
+SHA1-Digest: 7qrNjS+UeHm4KhaFOnX6UH3xgnE=
+
+Name: reference/api/org/eclipse/pde/core/build/class-use/IBuild.html
+SHA1-Digest: ctjfeJMTAQDi9Mio4iC8RYi2Jyc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPlugin.html
+SHA1-Digest: GbXHZFeMW7Vn0ROL1NGe4CcjzU8=
+
+Name: guide/images/simple_cs_editor/section_step_details_1.png
+SHA1-Digest: WDqiUyX6lihzP3sq7X1I012bfFw=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IFragmentModel.html
+SHA1-Digest: YG0q0N02BYAhe5TVim64Px1JP0U=
+
+Name: guide/tools/project_wizards/plugin_content.htm
+SHA1-Digest: T4SBG7pKY5FR5eFxXr7AvcBNwYI=
+
+Name: reference/api/org/eclipse/pde/launching/JUnitLaunchConfiguration
+ Delegate.html
+SHA1-Digest: 9N+cddZtphXlMEiBjOEytLwc4/k=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IFragment.html
+SHA1-Digest: BfBS2qTvh97lKMa5FMa1oAEbq68=
+
+Name: reference/api/org/eclipse/pde/ui/templates/AbstractTemplateSecti
+ on.html
+SHA1-Digest: /SUYsjgpV2KOklwqokI10TDjtXM=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IEditableModel.html
+SHA1-Digest: zrAK1YpuEjjIZVIweNgM3k6A2Z4=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/MainTab.html
+SHA1-Digest: Mh92GnWy2W4JFrlju/794drVh98=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/ConfigurationTab.html
+SHA1-Digest: J4sTxSYuTvG9lgYoGxrHpkRwp3s=
+
+Name: guide/tools/editors/category_editor/definition_page.htm
+SHA1-Digest: 3BGBfbqDFrWL6hoJoiAeel7zS5E=
+
+Name: guide/tools/editors/site_editor/archives.htm
+SHA1-Digest: 6UFkkhSbfDh2D1KetuI3vT+eXio=
+
+Name: guide/tools/pde_actions/organize_manifests.htm
+SHA1-Digest: kGcj9LdfDfIE/pmbBEVVDuyh1pI=
+
+Name: reference/api/org/eclipse/pde/core/IBaseModel.html
+SHA1-Digest: uFkc66drLmUdyO27LwILIUBzP0o=
+
+Name: guide/images/product_editor/branding_welcome.png
+SHA1-Digest: PWbn/vAILZb0XV5c7JW5eBbDbGM=
+
+Name: reference/api/org/eclipse/pde/launching/EclipseApplicationLaunch
+ Configuration.html
+SHA1-Digest: DeUsLzU3F1Krugkut2bdbxrcOD0=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginImport.html
+SHA1-Digest: g/RLU0+QikdMWbLWHMy4O3eTymc=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginModelFactory.ht
+ ml
+SHA1-Digest: I0Ar6wXpgXeC41lZYZFX8rsJXBs=
+
+Name: reference/api/org/eclipse/pde/core/project/class-use/IBundleClas
+ spathEntry.html
+SHA1-Digest: uftxZCCjIYXOFlkXQ6riZgdyt3g=
+
+Name: reference/extension-points/org_eclipse_pde_core_source.html
+SHA1-Digest: IJIFuuvbr/urnshYsng+1U1ObGc=
+
+Name: guide/tools/import_wizards/import_wizards.htm
+SHA1-Digest: 2C2Hld9/EHoYP0gPHWEDPqJlDbg=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginBase.
+ html
+SHA1-Digest: 38ofBNUR7vdPGzn8E1/Gq6LrFHM=
+
+Name: guide/images/target_shared/location_add_directory.png
+SHA1-Digest: t5usPVJG4r1qb7z8pcfa9QU4DUc=
+
+Name: guide/images/launchers/launcher_junit_headless.PNG
+SHA1-Digest: HFVQOYz6lME13fVqoi1D2YOWn8Y=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IPluginAttri
+ bute.html
+SHA1-Digest: s7v/32JrdWb4BuR4fCTWOEJJSjs=
+
+Name: reference/api-tooling/images/baseline-pref-page.png
+SHA1-Digest: ZbZmDNIvC97rgPfPgkFRe2zu8H8=
+
+Name: reference/api/org/eclipse/pde/ui/package-summary.html
+SHA1-Digest: FVHFnBn/RWi9b2nQn2s/k+QIofM=
+
+Name: guide/images/toc_editor/book_details.png
+SHA1-Digest: ZkWa6Ob2JEkeQaTcNFX5OOmAHZA=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/OSGiLauncher
+ TabGroup.html
+SHA1-Digest: TMVvCxgPo0Fa7Dzzwc1xpwc7s3k=
+
+Name: reference/api/resources/inherit.gif
+SHA1-Digest: 42+8XxPTdk4LcKDh/HbbyXG+EKI=
+
+Name: reference/api-tooling/api_since_tags.htm
+SHA1-Digest: 2+pidm9kAc6GN6nAqMalCwlVclY=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPlugin.html
+SHA1-Digest: 3Mxc418JTsT5e5pjSAkLf9fFyWQ=
+
+Name: guide/images/launchers/launcher_equinox_plugins.png
+SHA1-Digest: aogMHslKf6SREhkMsbghCM7XdYQ=
+
+Name: reference/api-tooling/preferences/ref-baselines.htm
+SHA1-Digest: TdEno7GelHbH5sX9x/AINRbZcTk=
+
+Name: guide/images/toc_editor/anchor_details.png
+SHA1-Digest: aC+rH21iS0+q3KufMSJ+0FjFGu4=
+
+Name: guide/tools/export_wizards/export_wizards.htm
+SHA1-Digest: c3LKnKfivrFVWwsfMlKkg3bembE=
+
+Name: guide/images/schema_editor/section_attribute-details_1.png
+SHA1-Digest: O5R8rDNSOTC/6FuaWjdtgv40HrY=
+
+Name: guide/images/tasks/import-as-repo.png
+SHA1-Digest: EQBVN+jSRZx+1X4+9PGUE2+yeS8=
+
+Name: tasks/api_tooling_compare_to_baseline.htm
+SHA1-Digest: R5lHXX40jQlKIZMK4O42txWwXwM=
+
+Name: guide/images/export_wizards/export_wizard_select.png
+SHA1-Digest: seQpZpuCAaFVnhZ1VI6NOuYYqS8=
+
+Name: guide/images/import_wizards/plugin_import.png
+SHA1-Digest: px93ddTq48tBH8I3o6KRNWm7BpA=
+
+Name: guide/images/target_shared/edit_target_content_tab_feature_mode.
+ png
+SHA1-Digest: ptdRAdRWPQM7Xgm4zRAnBJlZiyg=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModelChangedEvent.
+ html
+SHA1-Digest: ondR17L87cgE2eXVo4vpyBHldOE=
+
+Name: guide/images/launchers/launcher_eclipse_environment.png
+SHA1-Digest: Tdtw26D1/yb9DYvv/NRy2s6CWuU=
+
+Name: reference/api-tooling/actions/ref-compare-action.htm
+SHA1-Digest: VBv50oi9qPiwoVr4cYCE1xvt9w0=
+
+Name: reference/api/org/eclipse/pde/core/package-frame.html
+SHA1-Digest: nj6L47Psl4cQh+ZFV0q2+sfFb+0=
+
+Name: guide/tools/target_shared/location_add_features_wizard.htm
+SHA1-Digest: QadhX1aFJ62HzQGQj+N6FyZcdQw=
+
+Name: reference/api/org/eclipse/pde/launching/AbstractPDELaunchConfigu
+ ration.html
+SHA1-Digest: 9fXRk9Dp6iDvCtRHmapNrQ7uk7E=
+
+Name: tasks/pde_source_generation.htm
+SHA1-Digest: t5JwehGrDh+DdDeZnMOAOyVoNnQ=
+
+Name: reference/api/org/eclipse/pde/ui/templates/class-use/NewPluginPr
+ ojectFromTemplateWizard.html
+SHA1-Digest: AfYL6jKs+ujqLVC9mdbovoP5gk0=
+
+Name: reference/api/org/eclipse/pde/ui/launcher/class-use/AbstractLaun
+ cherTab.html
+SHA1-Digest: Az5GKyhugI5Iq3RYWNNiXjEpBd4=
+
+Name: guide/images/target_shared/select_implicit.png
+SHA1-Digest: Do9C/g1fbhbQd1huwqJt+UkvQpQ=
+
+Name: guide/images/new_wizards/new_toc_wizard.png
+SHA1-Digest: slq1Fw/46/jOn6+7AXFdFnoq4no=
+
+Name: guide/tools/launchers/junit_launcher.htm
+SHA1-Digest: e2Pp2nZnVm1qHWWUTue2hiNXk8g=
+
+Name: guide/tools/editors/target_editor/target_editor.htm
+SHA1-Digest: tDmQenynOIscAi4co5yROTjxRo8=
+
+Name: guide/tweak.css
+SHA1-Digest: bmMty9umXsPQki0PtAANYCgj1Yg=
+
+Name: reference/api/org/eclipse/pde/core/project/IHostDescription.html
+SHA1-Digest: uiXW2V7R2JDGTnAcQyOMXpqQzOQ=
+
+Name: reference/api/org/eclipse/pde/core/class-use/IModel.html
+SHA1-Digest: NC9vVjGI9SJTJAkFULkIKkmTEaA=
+
+Name: guide/images/simple_cs_editor/wizard_register_cheat-sheet.png
+SHA1-Digest: c4mAvMGBC1/b40z79LYRUAEZQis=
+
+Name: reference/api/allclasses-noframe.html
+SHA1-Digest: 0zXcE56Tm+CIhvJEwzFXvNSIj2c=
+
+Name: reference/api/org/eclipse/pde/ui/templates/ComboChoiceOption.htm
+ l
+SHA1-Digest: vnqct4C5CF2cEqFFbUFbe4A5ybI=
+
+Name: reference/api/org/eclipse/pde/build/package-frame.html
+SHA1-Digest: OcjEVmgInEM7j+K9l9P25vnU/Ns=
+
+Name: guide/tools/target_shared/move_target_wizard.htm
+SHA1-Digest: n/myiehHpsiEIdcty2Vcu8/iiCY=
+
+Name: guide/tools/launchers/common.htm
+SHA1-Digest: TZCu4kG53L0epLpWB2fwT6vmx5g=
+
+Name: guide/images/views/error_log_details.png
+SHA1-Digest: qOfrdphKQip1dZ2mngYiZFVqCXI=
+
+Name: reference/api/org/eclipse/pde/core/project/IBundleProjectDescrip
+ tion.html
+SHA1-Digest: 0/PlkyW9p629qTV1NbE7fJJYMZ0=
+
+Name: tasks/pde_feature_build.htm
+SHA1-Digest: lhLlwc7Fkq7/ojp+owGyM1NS2wQ=
+
+Name: tasks/pde_p2_featuremetadata.htm
+SHA1-Digest: XGpcEOl42HmaRjygLBj8E9RSKZc=
+
+Name: guide/images/target_shared/location_add_site.png
+SHA1-Digest: F3nmDm6jqnj5vQlS648q4cn9KWs=
+
+Name: guide/images/category_editor/manage_categories.png
+SHA1-Digest: UAXOVMHKJLFcQ2eFZTpfruQveEg=
+
+Name: guide/images/preferences/osgi_frameworks.png
+SHA1-Digest: PtGK1TALt7kKlpSn73THlNui6J8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/class-use/IExtensionsM
+ odelFactory.html
+SHA1-Digest: /o5yL+Gj8YFyIRy+W940rRj8s8U=
+
+Name: guide/tools/project_wizards/new_feature_project.htm
+SHA1-Digest: /SQV8I78FzcRWMeJ++g4GQqRujk=
+
+Name: guide/images/schema_editor/section_extension-point-elements_2.pn
+ g
+SHA1-Digest: oTDVxSG+MgY+2VFwF5288coU/HY=
+
+Name: guide/images/plugin_editor/dependencies_imported.png
+SHA1-Digest: eZi+xsuJ16IgDyBnFx/4ZR4S/YA=
+
+Name: guide/tools/launchers/equinox_launcher.htm
+SHA1-Digest: QM3PQJuyuXhUVfWM+jy/9s7WxE0=
+
+Name: guide/tools/editors/manifest_editor/build.htm
+SHA1-Digest: MJu5l59cCpbDgQoEIA4B0Trp1Ds=
+
+Name: tasks/pde_compiler_options.htm
+SHA1-Digest: flOOJ+Aei+EhMdUIs7XW7FZlvlA=
+
+Name: reference/api-tooling/preferences/ref-errorswarnings.htm
+SHA1-Digest: gq3LjT/doLTa2qt6Nul+gBdTU+0=
+
+Name: guide/images/product_editor/configuration_features.PNG
+SHA1-Digest: 7+AwA97QcpeB6knHqqBRN5pu4QM=
+
+Name: tasks/pde_plugins_build.htm
+SHA1-Digest: 27/g799bd4+BiMjG9xroet3N7F8=
+
+Name: reference/api/org/eclipse/pde/core/plugin/IPluginObject.html
+SHA1-Digest: LA/wNLCnPEEvw7LNoXk4SoT62Q4=
+
+Name: reference/api-tooling/ant-tasks/apiusescan-problems-ant-task.htm
+SHA1-Digest: 2/VlPoiRrszU5i+fc1esSqpAN2A=
+
+Name: guide/tools/views/views.htm
+SHA1-Digest: SsFXF586c880vRXhY79RNyVRbyQ=
+
+Name: guide/images/export_wizards/cross_platform.PNG
+SHA1-Digest: KRlhm+xvtPsCjD6SIX9s4Mc+6oM=
+
+Name: guide/tools/editors/product_editor/splash.htm
+SHA1-Digest: o1/MnuVXj/uLg3LjrkGt7EsAOqM=
+
+Name: guide/images/new_wizards/plugin_customize.PNG
+SHA1-Digest: okLNIEvZwpsCYz+ypNJW+UOPR3k=
+
+Name: reference/api-tooling/wizards/ref-api-setup-wizard.htm
+SHA1-Digest: wPz3BQ3leid9mqfF4V2bvF4VoG0=
+
